@@ -1,0 +1,791 @@
+Fine-Tuning a Domain-Specific Model for DBT Citizen Bot 
+
+1. Objective 
+
+Purpose 
+
+The current DBT Citizen Bot uses a Retrieval-Augmented Generation (RAG) architecture along with multiple prompt-based model calls and business rules to perform query understanding tasks such as: 
+
+Intent Classification 
+
+Scope Detection 
+
+Filter Extraction 
+
+Marathi Query Understanding 
+
+Response Generation 
+
+As the number of schemes, filters, and supported query patterns increases, maintaining multiple prompts and business rules becomes increasingly complex. 
+
+The objective of this initiative is to build a DBT domain-specific Small Language Model (SLM) using fine-tuning, while continuing to leverage the existing RAG system for scheme retrieval and answer generation. 
+
+Fine-Tuning Scope 
+
+The model will be trained to perform: 
+
+Intent Classification 
+
+Filter Extraction 
+
+Scope Detection 
+
+Marathi Query Understanding 
+
+Formatted Answer Generation 
+
+Out of Scope 
+
+The model will not be trained to memorize: 
+
+Scheme Details 
+
+Eligibility Criteria 
+
+Benefits 
+
+Required Documents 
+
+Application Procedures 
+
+Scheme Lists 
+
+These details are dynamic and will continue to be retrieved through the existing RAG pipeline. 
+
+ 
+
+2. Requirements 
+
+Data Requirements 
+
+official_master.json 
+
+Contains: 
+
+Scheme Metadata  
+
+Department Information  
+
+Eligibility Rules  
+
+Beneficiary Information  
+
+Tags and Categories  
+
+Purpose: 
+
+Filter Label Generation  
+
+Domain Understanding  
+
+Dataset Preparation  
+
+Metadata Reference  
+
+RAG_DB_CANONICAL_Marathi.json 
+
+Contains: 
+
+English Questions  
+
+English Answers  
+
+Marathi Questions  
+
+Marathi Answers  
+
+Purpose: 
+
+Intent Dataset Creation  
+
+Filter Dataset Creation  
+
+Scope Dataset Creation  
+
+Marathi Dataset Creation  
+
+Response Formatting Dataset Creation  
+
+ 
+
+Infrastructure Requirements 
+
+Hardware 
+
+GPU: NVIDIA L40 (48 GB VRAM) 
+
+Supports: 
+
+Qwen3-14B Fine-Tuning  
+
+QLoRA Training  
+
+Production Inference  
+
+Operating Environment 
+
+Linux Server  
+
+Python 3.10+  
+
+CUDA Enabled Environment  
+
+ 
+
+Software Requirements 
+
+CUDA Toolkit  
+
+PyTorch  
+
+HuggingFace Transformers  
+
+PEFT  
+
+BitsAndBytes  
+
+TRL  
+
+vLLM  
+
+Qdrant  
+
+LangGraph  
+
+ 
+
+3. Technology Stack 
+
+Technology 
+
+Purpose 
+
+Python 3.10+ 
+
+Primary programming language used for dataset preparation, model training, evaluation, and integration. 
+
+CUDA Toolkit 
+
+NVIDIA GPU acceleration framework required for efficient model training and inference on the L40 GPU. 
+
+PyTorch 
+
+Deep learning framework used to load, train, fine-tune, and evaluate the Qwen model. 
+
+HuggingFace Transformers 
+
+Library used for loading pre-trained Qwen models, tokenization, training, and inference workflows. 
+
+PEFT (Parameter-Efficient Fine-Tuning) 
+
+Provides LoRA and QLoRA implementations, allowing efficient fine-tuning by training only small adapter layers instead of the full model. 
+
+BitsAndBytes 
+
+Enables 4-bit quantization (QLoRA), significantly reducing GPU memory requirements while maintaining model performance. 
+
+TRL (Transformer Reinforcement Learning) 
+
+Provides supervised fine-tuning (SFT) utilities and training pipelines for instruction-tuning language models. 
+
+vLLM 
+
+High-performance inference engine used to serve the fine-tuned model efficiently in production with lower latency and higher throughput. 
+
+Qdrant 
+
+Vector database used by the RAG pipeline to store embeddings and retrieve relevant scheme information based on user queries. 
+
+LangGraph 
+
+Workflow orchestration framework used to manage the Citizen Bot pipeline, including routing, retrieval, filtering, and response generation. 
+
+ 
+
+4. Model Selection 
+
+Move this entire section separately: 
+
+Recommended Base Model 
+
+Qwen3-14B 
+
+Selection Rationale 
+
+Strong instruction-following capability suitable for DBT-specific tasks.  
+
+Reliable structured output generation.  
+
+Supports multilingual interactions including Marathi.  
+
+Good balance between model capability and infrastructure cost.  
+
+Efficient QLoRA fine-tuning on NVIDIA L40 (48 GB VRAM).  
+
+Faster experimentation and retraining cycles.  
+
+Integrates easily with the existing Citizen Bot architecture.  
+
+Suitable for task-oriented fine-tuning rather than knowledge memorization.  
+
+Scalable for future DBT use cases and language support.  
+
+Continues leveraging the existing RAG-based retrieval architecture. 
+
+ 
+
+5. Proposed Architecture 
+
+Current Architecture 
+
+User Query 
+
+↓ 
+
+Scope Detection 
+
+↓ 
+
+Intent Classification 
+
+↓ 
+
+Filter Extraction 
+
+↓ 
+
+Profile Manager 
+
+↓ 
+
+Hard Filter 
+
+↓ 
+
+Adaptive RAG 
+
+↓ 
+
+Answer Generation 
+
+ 
+
+Proposed Architecture 
+
+User Query 
+
+↓ 
+
+Fine-Tuned Qwen Task Model 
+
+↓ 
+
+{ 
+
+Intent, 
+
+Scope, 
+
+Filters 
+
+} 
+
+↓ 
+
+Profile Manager 
+
+↓ 
+
+Hard Filter 
+
+↓ 
+
+Adaptive RAG 
+
+↓ 
+
+Fine-Tuned Qwen Response Formatter 
+
+↓ 
+
+Final User Response 
+
+ 
+
+Components Replaced 
+
+Current Components: 
+
+detect_scope_slm() 
+
+intent_classification() 
+
+extract_filters_slm() 
+
+Future Component: 
+
+dbt_task_model() 
+
+The model will return: 
+
+{ 
+
+"intent": "...", 
+
+"scope": "...", 
+
+"filters": { 
+
+... 
+
+} 
+
+} 
+
+This reduces multiple model calls and prompt complexity. 
+
+ 
+
+6. Implementation Plan 
+
+Phase 1 – Model Download and Environment Setup 
+
+Activities 
+
+Download Qwen3-14B-Instruct 
+
+Configure GPU environment 
+
+Install training libraries 
+
+Configure quantization support 
+
+Validate model loading 
+
+Deliverables 
+
+Running Qwen Environment 
+
+GPU Validation Report 
+
+ 
+
+Phase 2 – Base Model Testing 
+
+Activities 
+
+Evaluate the base model on: 
+
+Intent Detection 
+
+Filter Extraction 
+
+Scope Detection 
+
+Marathi Understanding 
+
+Response Formatting 
+
+Objective 
+
+Establish baseline performance before fine-tuning. 
+
+Deliverables 
+
+Baseline Accuracy Report 
+
+Sample Outputs 
+
+ 
+
+Phase 3 – Data Analysis 
+
+Analyze official_master.json 
+
+Identify: 
+
+Available Filters 
+
+Categories 
+
+Beneficiary Types 
+
+Scheme Metadata 
+
+Analyze RAG_DB_CANONICAL_Marathi.json 
+
+Identify: 
+
+Question Types 
+
+Intent Categories 
+
+Marathi Query Patterns 
+
+Response Structures 
+
+Deliverables 
+
+DBT Taxonomy Document 
+
+Label Mapping Sheet 
+
+ 
+
+Phase 4 – Dataset Preparation 
+
+Dataset 1 – Intent Classification 
+
+Purpose: 
+
+Train the model to classify user intent. 
+
+Examples: 
+
+scheme_search 
+
+scheme_details 
+
+eligibility 
+
+benefits 
+
+documents 
+
+application_status 
+
+ 
+
+Dataset 2 – Filter Extraction 
+
+Purpose: 
+
+Train the model to extract DBT filters. 
+
+Examples: 
+
+caste 
+
+gender 
+
+class 
+
+income 
+
+beneficiary type 
+
+ 
+
+Dataset 3 – Scope Detection 
+
+Purpose: 
+
+Train the model to identify: 
+
+In-Scope Queries 
+
+Out-of-Scope Queries 
+
+ 
+
+Dataset 4 – Marathi Understanding 
+
+Purpose: 
+
+Train multilingual query understanding. 
+
+Includes: 
+
+Marathi Queries 
+
+Marathi Filters 
+
+Marathi Intent Mapping 
+
+ 
+
+Dataset 5 – Formatted Answer Generation 
+
+Purpose: 
+
+Train the model to generate clear, consistent, natural-language responses after scheme retrieval. 
+
+The flow will be: 
+
+Retrieved Scheme Data 
+
+↓ 
+
+Fine-Tuned Model 
+
+↓ 
+
+User-Friendly Response 
+
+This addresses current answer formatting issues and improves response quality. 
+
+ 
+
+Output Files 
+
+Dataset Creation: 
+
+intent_dataset.csv 
+
+filter_dataset.csv 
+
+scope_dataset.csv 
+
+marathi_dataset.csv 
+
+response_dataset.csv 
+
+Training Conversion: 
+
+train.jsonl 
+
+validation.jsonl 
+
+test.jsonl 
+
+ 
+
+Phase 5 – Fine-Tuning 
+
+Fine-Tuning Method 
+
+QLoRA (Quantized Low Rank Adaptation) 
+
+Approach 
+
+The base Qwen3-14B model will remain frozen. 
+
+LoRA adapters will be attached to key transformer layers and only these adapter parameters will be trained. 
+
+This significantly reduces: 
+
+GPU Requirements 
+
+Training Cost 
+
+Training Time 
+
+while maintaining performance close to full fine-tuning. 
+
+Configuration 
+
+Base Model: 
+
+Qwen3-14B-Instruct 
+
+Quantization: 
+
+4-bit NF4 
+
+LoRA Rank: 
+
+64 
+
+LoRA Alpha: 
+
+128 
+
+Dropout: 
+
+0.05 
+
+Learning Rate: 
+
+1e-4 to 2e-4 
+
+Epochs: 
+
+2–3 
+
+Sequence Length: 
+
+2048–4096 
+
+Deliverables 
+
+Fine-Tuned LoRA Adapter 
+
+Training Logs 
+
+Checkpoints 
+
+Training Metrics 
+
+ 
+
+Phase 6 – Validation 
+
+Evaluation Metrics 
+
+Intent Accuracy 
+
+Measure predicted intent against expected intent. 
+
+Filter Accuracy 
+
+Measure extracted filters against expected filters. 
+
+Scope Accuracy 
+
+Measure scope classification accuracy. 
+
+Marathi Understanding Accuracy 
+
+Measure multilingual query understanding. 
+
+Response Formatting Quality 
+
+Evaluate: 
+
+Readability 
+
+Consistency 
+
+Correctness 
+
+User Experience 
+
+Deliverables 
+
+Validation Report 
+
+ 
+
+Phase 7 – Integration 
+
+Integration Targets 
+
+Replace: 
+
+detect_scope_slm() 
+
+intent_classification() 
+
+extract_filters_slm() 
+
+with: 
+
+dbt_task_model() 
+
+New Flow 
+
+User Query 
+
+↓ 
+
+DBT Task Model 
+
+↓ 
+
+Intent 
+
+Scope 
+
+Filters 
+
+↓ 
+
+RAG 
+
+↓ 
+
+Response Formatter 
+
+↓ 
+
+Final Response 
+
+Deliverables 
+
+Integrated Citizen Bot  
+
+ 
+
+Phase 8 – Final Testing and Evaluation 
+
+Comparison 
+
+Current Prompt-Based Pipeline 
+
+vs 
+
+Fine-Tuned Qwen Pipeline 
+
+Evaluation Areas 
+
+Accuracy 
+
+Latency 
+
+Marathi Query Handling 
+
+Filter Accuracy 
+
+Response Quality 
+
+Maintainability 
+
+Deliverables 
+
+Performance Comparison Report 
+
+Deployment Recommendation 
+
+ 
+
+6. Expected Benefits 
+
+Technical Benefits 
+
+Reduced prompt engineering effort 
+
+Reduced number of model calls 
+
+Improved response consistency 
+
+Better Marathi query understanding 
+
+Improved structured outputs 
+
+Easier future maintenance 
+
+Business Benefits 
+
+Improved user experience 
+
+Faster response times 
+
+Better multilingual support 
+
+More scalable architecture 
+
+Foundation for future domain-specific DBT models 
+
+ 
+
+7. Conclusion 
+
+The proposed approach is to build a DBT-specific task model using Qwen3-14B and QLoRA fine-tuning while preserving the existing RAG architecture for scheme retrieval. 
+
+The fine-tuned model will specialize in: 
+
+Intent Classification 
+
+Filter Extraction 
+
+Scope Detection 
+
+Marathi Understanding 
+
+Response Formatting 
+
+while the RAG system continues to provide dynamic scheme information. 
+
+This approach minimizes infrastructure changes, leverages existing DBT datasets, improves multilingual capabilities, reduces prompt-engineering complexity, and provides a scalable foundation for future Citizen Bot enhancements. 
+
+ 
