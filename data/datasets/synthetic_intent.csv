@@ -1,0 +1,1226 @@
+question,language,intent,field_focus,query_focus,source
+Tell me about the Savitribai Phule Scholarship for 5th to 7th standard Girls of OBC Category.,en,SCHEME_INFO,,,synthetic
+What is the Savitribai Phule Scholarship for girls studying in 5th to 7th?,en,SCHEME_INFO,,,synthetic
+Can you explain this scholarship?,en,SCHEME_INFO,,,synthetic
+या शिष्यवृत्तीबद्दल माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+५वी ते ७वीतील मुलींसाठी असलेल्या सावित्रीबाई फुले शिष्यवृत्तीची माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+ही योजना काय आहे?,mr,SCHEME_INFO,,,synthetic
+Am I eligible for this scholarship if I belong to the OBC category?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can an OBC girl studying in 6th class apply for this scheme?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is there any income limit for this scholarship?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Can girls studying in private schools apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is Aadhaar-linked bank account mandatory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can a 7th class OBC student receive this scholarship?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+मी OBC प्रवर्गातील ६वीतील विद्यार्थिनी आहे, मी पात्र आहे का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी उत्पन्न मर्यादा आहे का?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+आधार लिंक बँक खाते आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+खाजगी शाळेतील मुलींना ही शिष्यवृत्ती मिळते का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या शिष्यवृत्तीसाठी कोण पात्र आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What documents are required for this scholarship?,en,DOCUMENT_QUERY,documents,,synthetic
+Which documents should I upload?,en,DOCUMENT_QUERY,documents,,synthetic
+या योजनेसाठी कोणती कागदपत्रे लागतील?,mr,DOCUMENT_QUERY,documents,,synthetic
+अर्जासोबत कोणती कागदपत्रे जोडावी?,mr,DOCUMENT_QUERY,documents,,synthetic
+What benefits will I receive under this scholarship?,en,BENEFIT_QUERY,benefit,,synthetic
+How much scholarship amount is provided?,en,BENEFIT_QUERY,benefit,,synthetic
+या शिष्यवृत्तीमध्ये किती लाभ मिळतो?,mr,BENEFIT_QUERY,benefit,,synthetic
+मला या योजनेत काय फायदा मिळेल?,mr,BENEFIT_QUERY,benefit,,synthetic
+How can I apply for this scholarship?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+What is the application process?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+या योजनेसाठी अर्ज कसा करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+अर्ज प्रक्रिया काय आहे?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+Which department offers this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scholarship provided by the OBC Welfare Department?,en,DEPARTMENT_QUERY,dept,,synthetic
+ही योजना कोणत्या विभागाची आहे?,mr,DEPARTMENT_QUERY,dept,,synthetic
+ही शिष्यवृत्ती OBC विभागामार्फत दिली जाते का?,mr,DEPARTMENT_QUERY,dept,,synthetic
+Show all scholarships for OBC girls studying in school.,en,FILTER_SEARCH,,list_expand,synthetic
+List scholarships for girls in classes 5 to 7.,en,FILTER_SEARCH,,list_expand,synthetic
+OBC मुलींसाठी शालेय शिष्यवृत्ती दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+५वी ते ७वीतील मुलींसाठी योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+Which is better, this scholarship or the Savitribai Phule Scholarship for 8th to 10th standard Girls?,en,COMPARISON,,,synthetic
+५वी-७वी आणि ८वी-१०वी सावित्रीबाई फुले शिष्यवृत्तीमध्ये काय फरक आहे?,mr,COMPARISON,,,synthetic
+Tell me about the Savitribai Phule Scholarship for 8th to 10th standard Girls.,en,SCHEME_INFO,,,synthetic
+What is the scholarship for girls studying in 8th to 10th?,en,SCHEME_INFO,,,synthetic
+Explain this scholarship scheme.,en,SCHEME_INFO,,,synthetic
+८वी ते १०वीतील मुलींसाठी सावित्रीबाई फुले शिष्यवृत्तीबद्दल माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+ही योजना काय आहे?,mr,SCHEME_INFO,,,synthetic
+या शिष्यवृत्तीचा उद्देश काय आहे?,mr,SCHEME_INFO,,,synthetic
+Am I eligible if I belong to the VJNT category?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can an SBC girl studying in 9th class apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is there any income restriction?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Can girls in government schools apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is Aadhaar-linked bank account compulsory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can a 10th class SBC student apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+मी SBC प्रवर्गातील विद्यार्थिनी आहे, मी पात्र आहे का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी उत्पन्न मर्यादा आहे का?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+सरकारी शाळेतील मुलींना ही योजना मिळते का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+आधार लिंक बँक खाते आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या योजनेसाठी पात्रता काय आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What documents are required?,en,DOCUMENT_QUERY,documents,,synthetic
+Which certificates are needed?,en,DOCUMENT_QUERY,documents,,synthetic
+या योजनेसाठी कोणती कागदपत्रे लागतील?,mr,DOCUMENT_QUERY,documents,,synthetic
+अर्जासाठी कोणती प्रमाणपत्रे आवश्यक आहेत?,mr,DOCUMENT_QUERY,documents,,synthetic
+What benefits are provided under this scheme?,en,BENEFIT_QUERY,benefit,,synthetic
+How much scholarship amount will I receive?,en,BENEFIT_QUERY,benefit,,synthetic
+या शिष्यवृत्तीमध्ये किती लाभ मिळतो?,mr,BENEFIT_QUERY,benefit,,synthetic
+या योजनेत मला काय मिळेल?,mr,BENEFIT_QUERY,benefit,,synthetic
+How do I apply for this scholarship?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+What is the application procedure?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+या योजनेसाठी अर्ज कसा करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+अर्ज प्रक्रिया समजावून सांगा.,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+Which department manages this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scheme under the OBC, SEBC, VJNT & SBC Welfare Department?,en,DEPARTMENT_QUERY,dept,,synthetic
+ही योजना कोणत्या विभागाकडून चालवली जाते?,mr,DEPARTMENT_QUERY,dept,,synthetic
+ही योजना OBC, SEBC, VJNT आणि SBC कल्याण विभागाची आहे का?,mr,DEPARTMENT_QUERY,dept,,synthetic
+Show scholarships for girls studying in classes 8 to 10.,en,FILTER_SEARCH,,list_expand,synthetic
+List scholarships for VJNT students in school.,en,FILTER_SEARCH,,list_expand,synthetic
+८वी ते १०वीतील मुलींसाठी योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+VJNT विद्यार्थ्यांसाठी शिष्यवृत्ती दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+Compare this scholarship with the scholarship for 5th to 7th standard girls.,en,COMPARISON,,,synthetic
+५वी-७वी आणि ८वी-१०वी शिष्यवृत्तीची तुलना करा.,mr,COMPARISON,,,synthetic
+Tell me about the Savitribai Phule Scholarship for VJNT and SBC Girl Students Studying in 5th to 7th Standard.,en,SCHEME_INFO,,,synthetic
+What is the Savitribai Phule Scholarship for VJNT and SBC girls?,en,SCHEME_INFO,,,synthetic
+Explain this scholarship for girls studying in classes 5 to 7.,en,SCHEME_INFO,,,synthetic
+Give complete information about this scheme.,en,SCHEME_INFO,,,synthetic
+What is this scholarship meant for?,en,SCHEME_INFO,,,synthetic
+५वी ते ७वीतील VJNT आणि SBC मुलींसाठी सावित्रीबाई फुले शिष्यवृत्तीची माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+या शिष्यवृत्तीबद्दल माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+ही योजना कशासाठी आहे?,mr,SCHEME_INFO,,,synthetic
+या योजनेचा उद्देश काय आहे?,mr,SCHEME_INFO,,,synthetic
+ही शिष्यवृत्ती कोणासाठी आहे?,mr,SCHEME_INFO,,,synthetic
+Can a VJNT girl studying in 6th class apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Am I eligible if I belong to SBC category?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is this scholarship only for girls?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can private school students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is there any income limit?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Is Aadhaar-linked bank account compulsory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What are the eligibility conditions?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Who is eligible for this scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+मी VJNT प्रवर्गातील विद्यार्थिनी आहे, मी पात्र आहे का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+SBC विद्यार्थिनी अर्ज करू शकते का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+ही योजना फक्त मुलींसाठी आहे का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी उत्पन्न मर्यादा आहे का?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+आधार लिंक बँक खाते आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या योजनेची पात्रता काय आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या शिष्यवृत्तीसाठी कोण पात्र आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What documents are required?,en,DOCUMENT_QUERY,documents,,synthetic
+Which certificates should I upload?,en,DOCUMENT_QUERY,documents,,synthetic
+या योजनेसाठी कोणती कागदपत्रे आवश्यक आहेत?,mr,DOCUMENT_QUERY,documents,,synthetic
+अर्जासाठी कोणती प्रमाणपत्रे लागतील?,mr,DOCUMENT_QUERY,documents,,synthetic
+What benefits will I receive?,en,BENEFIT_QUERY,benefit,,synthetic
+How much scholarship amount is provided?,en,BENEFIT_QUERY,benefit,,synthetic
+या शिष्यवृत्तीमध्ये कोणते लाभ मिळतात?,mr,BENEFIT_QUERY,benefit,,synthetic
+या योजनेत किती रक्कम मिळते?,mr,BENEFIT_QUERY,benefit,,synthetic
+How can I apply for this scholarship?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+What is the application procedure?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+या योजनेसाठी अर्ज कसा करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+अर्ज प्रक्रिया काय आहे?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+Which department provides this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scheme under OBC, SEBC, VJNT & SBC Welfare Department?,en,DEPARTMENT_QUERY,dept,,synthetic
+ही योजना कोणत्या विभागामार्फत दिली जाते?,mr,DEPARTMENT_QUERY,dept,,synthetic
+ही योजना OBC, SEBC, VJNT आणि SBC कल्याण विभागाची आहे का?,mr,DEPARTMENT_QUERY,dept,,synthetic
+Show scholarships for VJNT girls studying in school.,en,FILTER_SEARCH,,list_expand,synthetic
+List scholarships for SBC girls in classes 5 to 7.,en,FILTER_SEARCH,,list_expand,synthetic
+VJNT मुलींसाठी शिष्यवृत्ती दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+SBC मुलींसाठी ५वी ते ७वीच्या योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+Compare this scholarship with the 8th to 10th Savitribai Phule Scholarship.,en,COMPARISON,,,synthetic
+५वी-७वी आणि ८वी-१०वी VJNT/SBC शिष्यवृत्तीची तुलना करा.,mr,COMPARISON,,,synthetic
+Tell me about the Savitribai Phule Scholarship for VJNT and SBC Girl Students Studying in 8th to 10th Standard.,en,SCHEME_INFO,,,synthetic
+What is the scholarship for VJNT and SBC girls studying in 8th to 10th?,en,SCHEME_INFO,,,synthetic
+Explain this scholarship scheme.,en,SCHEME_INFO,,,synthetic
+Give details about this scholarship.,en,SCHEME_INFO,,,synthetic
+What is this scheme for?,en,SCHEME_INFO,,,synthetic
+८वी ते १०वीतील VJNT आणि SBC मुलींसाठी सावित्रीबाई फुले शिष्यवृत्तीची माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+या शिष्यवृत्तीबद्दल सविस्तर माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+ही योजना कोणासाठी आहे?,mr,SCHEME_INFO,,,synthetic
+या योजनेचा उद्देश काय आहे?,mr,SCHEME_INFO,,,synthetic
+ही शिष्यवृत्ती काय आहे?,mr,SCHEME_INFO,,,synthetic
+Can an SBC girl studying in 9th class apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Am I eligible if I belong to VJNT category?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is this scholarship only for girls?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can government school students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is there any income limit?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+What are the eligibility criteria?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is Aadhaar-linked bank account mandatory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Who is eligible for this scheme?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+मी VJNT विद्यार्थिनी आहे, मी पात्र आहे का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+SBC मुलगी अर्ज करू शकते का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+ही योजना फक्त मुलींसाठी आहे का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी उत्पन्न मर्यादा आहे का?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+या योजनेची पात्रता काय आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+आधार लिंक बँक खाते आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या शिष्यवृत्तीसाठी कोण पात्र आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What documents are required for this scholarship?,en,DOCUMENT_QUERY,documents,,synthetic
+Which certificates are needed?,en,DOCUMENT_QUERY,documents,,synthetic
+या योजनेसाठी कोणती कागदपत्रे लागतील?,mr,DOCUMENT_QUERY,documents,,synthetic
+अर्जासाठी कोणती प्रमाणपत्रे आवश्यक आहेत?,mr,DOCUMENT_QUERY,documents,,synthetic
+What benefits are provided under this scheme?,en,BENEFIT_QUERY,benefit,,synthetic
+How much scholarship amount is available?,en,BENEFIT_QUERY,benefit,,synthetic
+या शिष्यवृत्तीमध्ये कोणते लाभ मिळतात?,mr,BENEFIT_QUERY,benefit,,synthetic
+या योजनेत किती लाभ मिळतो?,mr,BENEFIT_QUERY,benefit,,synthetic
+How do I apply for this scholarship?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+Explain the application process.,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+या योजनेसाठी अर्ज कसा करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+अर्ज प्रक्रिया समजावून सांगा.,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+Which department manages this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scholarship under the OBC, SEBC, VJNT & SBC Welfare Department?,en,DEPARTMENT_QUERY,dept,,synthetic
+ही योजना कोणत्या विभागाची आहे?,mr,DEPARTMENT_QUERY,dept,,synthetic
+ही योजना OBC, SEBC, VJNT आणि SBC कल्याण विभागाकडून चालवली जाते का?,mr,DEPARTMENT_QUERY,dept,,synthetic
+Show scholarships for girls studying in classes 8 to 10.,en,FILTER_SEARCH,,list_expand,synthetic
+List scholarships for VJNT students in secondary school.,en,FILTER_SEARCH,,list_expand,synthetic
+८वी ते १०वीतील मुलींसाठी योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+VJNT विद्यार्थ्यांसाठी शिष्यवृत्ती दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+Compare this scholarship with the scholarship for classes 5 to 7.,en,COMPARISON,,,synthetic
+५वी-७वी आणि ८वी-१०वी शिष्यवृत्तीची तुलना करा.,mr,COMPARISON,,,synthetic
+Tell me about the Meritorious Scholarship for VJNT and SBC students studying in Mumbai.,en,SCHEME_INFO,,,synthetic
+What is the Meritorious Scholarship for VJNT/SBC students?,en,SCHEME_INFO,,,synthetic
+Can you explain this scholarship?,en,SCHEME_INFO,,,synthetic
+What is this Mumbai scholarship for VJNT students?,en,SCHEME_INFO,,,synthetic
+Give complete information about this scheme.,en,SCHEME_INFO,,,synthetic
+मुंबईतील VJNT आणि SBC विद्यार्थ्यांसाठी गुणवंत शिष्यवृत्तीची माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+या शिष्यवृत्तीबद्दल माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+ही योजना काय आहे?,mr,SCHEME_INFO,,,synthetic
+या योजनेचा उद्देश काय आहे?,mr,SCHEME_INFO,,,synthetic
+ही शिष्यवृत्ती कोणासाठी आहे?,mr,SCHEME_INFO,,,synthetic
+I belong to the VJNT category. Am I eligible?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can an SBC student studying in 8th class apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+I scored 55% in school. Can I apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is this scholarship only for Mumbai students?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students outside Mumbai apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Do I need to study in a government school?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is there any income limit for this scheme?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+What are the eligibility criteria?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+मी VJNT प्रवर्गातील विद्यार्थी आहे. मी पात्र आहे का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+SBC विद्यार्थी अर्ज करू शकतो का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+माझे ५५% गुण आहेत. मी पात्र आहे का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+ही योजना फक्त मुंबईतील विद्यार्थ्यांसाठी आहे का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+मुंबईबाहेरील विद्यार्थी अर्ज करू शकतात का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी सरकारी शाळेत शिकणे आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या योजनेसाठी उत्पन्न मर्यादा आहे का?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+या योजनेची पात्रता काय आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What documents are required for this scholarship?,en,DOCUMENT_QUERY,documents,,synthetic
+Which certificates should I upload?,en,DOCUMENT_QUERY,documents,,synthetic
+Do I need to submit my marks memo?,en,DOCUMENT_QUERY,documents,,synthetic
+या योजनेसाठी कोणती कागदपत्रे आवश्यक आहेत?,mr,DOCUMENT_QUERY,documents,,synthetic
+गुणपत्रिका आवश्यक आहे का?,mr,DOCUMENT_QUERY,documents,,synthetic
+अर्जासाठी कोणती प्रमाणपत्रे लागतील?,mr,DOCUMENT_QUERY,documents,,synthetic
+What benefits are provided under this scholarship?,en,BENEFIT_QUERY,benefit,,synthetic
+How much scholarship amount will I receive?,en,BENEFIT_QUERY,benefit,,synthetic
+What financial assistance does this scheme provide?,en,BENEFIT_QUERY,benefit,,synthetic
+या शिष्यवृत्तीमध्ये किती लाभ मिळतो?,mr,BENEFIT_QUERY,benefit,,synthetic
+या योजनेत किती आर्थिक मदत मिळते?,mr,BENEFIT_QUERY,benefit,,synthetic
+या शिष्यवृत्तीचे फायदे काय आहेत?,mr,BENEFIT_QUERY,benefit,,synthetic
+How can I apply for this scholarship?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+Where can I apply for this scheme?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+Explain the application process.,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+या योजनेसाठी अर्ज कसा करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+अर्ज कुठे करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+अर्ज प्रक्रिया समजावून सांगा.,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+Which department provides this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scholarship under the OBC, SEBC, VJNT & SBC Welfare Department?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who manages this scheme?,en,DEPARTMENT_QUERY,dept,,synthetic
+ही योजना कोणत्या विभागाची आहे?,mr,DEPARTMENT_QUERY,dept,,synthetic
+ही योजना OBC, SEBC, VJNT आणि SBC कल्याण विभागाची आहे का?,mr,DEPARTMENT_QUERY,dept,,synthetic
+या योजनेचे संचालन कोणता विभाग करतो?,mr,DEPARTMENT_QUERY,dept,,synthetic
+Show scholarships for VJNT students in Mumbai.,en,FILTER_SEARCH,,list_expand,synthetic
+List scholarships for SBC students studying in classes 5 to 10.,en,FILTER_SEARCH,,list_expand,synthetic
+Show merit scholarships for school students.,en,FILTER_SEARCH,,list_expand,synthetic
+मुंबईतील VJNT विद्यार्थ्यांसाठी शिष्यवृत्ती दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+५वी ते १०वीतील SBC विद्यार्थ्यांसाठी योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+गुणवंत विद्यार्थ्यांसाठी शिष्यवृत्ती दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+Compare this scholarship with the Savitribai Phule Scholarship.,en,COMPARISON,,,synthetic
+How is this scholarship different from other VJNT scholarships?,en,COMPARISON,,,synthetic
+या शिष्यवृत्तीची सावित्रीबाई फुले शिष्यवृत्तीशी तुलना करा.,mr,COMPARISON,,,synthetic
+ही योजना इतर VJNT शिष्यवृत्तींपेक्षा कशी वेगळी आहे?,mr,COMPARISON,,,synthetic
+Is there any scheme that reimburses tuition fees for VJNT students studying in school?,en,FILTER_SEARCH,,list_expand,synthetic
+Show fee reimbursement schemes for SBC students from Class 1 to 10.,en,FILTER_SEARCH,,list_expand,synthetic
+Can VJNT students studying in secondary school get exam fee reimbursement?,en,SCHEME_INFO,benefit,,synthetic
+What is the income criteria for the Payment of Tuition Fees & Exam Fees scheme for VJNT students?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Who is eligible for the Payment of Tuition Fees & Exam Fees scheme?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is BPL mandatory for this scheme?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Which department provides this tuition fee reimbursement scheme?,en,DEPARTMENT_QUERY,dept,,synthetic
+What benefits are provided under this scheme?,en,BENEFIT_QUERY,benefit,,synthetic
+Does this scheme cover both tuition fees and examination fees?,en,BENEFIT_QUERY,benefit,,synthetic
+Explain the Payment of Tuition Fees & Exam Fees scheme.,en,SCHEME_INFO,,,synthetic
+VJNT आणि SBC विद्यार्थ्यांसाठी फी परतावा योजना आहे का?,mr,FILTER_SEARCH,,list_expand,synthetic
+इयत्ता १ ते १० मधील VJNT विद्यार्थ्यांसाठी परीक्षा शुल्क भरून मिळते का?,mr,SCHEME_INFO,benefit,,synthetic
+या योजनेसाठी पात्रता काय आहे?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी BPL आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या योजनेअंतर्गत कोणते लाभ मिळतात?,mr,BENEFIT_QUERY,benefit,,synthetic
+ही योजना कोणत्या विभागामार्फत दिली जाते?,mr,DEPARTMENT_QUERY,dept,,synthetic
+VJNT विद्यार्थ्यांसाठी शुल्क माफी योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+या योजनेत उत्पन्न मर्यादा किती आहे?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+ही योजना कशाबद्दल आहे?,mr,SCHEME_INFO,,,synthetic
+माध्यमिक शाळेतील SBC विद्यार्थ्यांना फी भरून मिळेल का?,mr,SCHEME_INFO,benefit,,synthetic
+Are there any maintenance allowance schemes for students studying in Sainik Schools?,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarship schemes for Sainik School students.,en,FILTER_SEARCH,,list_expand,synthetic
+What is the income limit for the Sainik School maintenance allowance scheme?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+What documents are required for the Sainik School maintenance allowance scheme?,en,DOCUMENT_QUERY,documents,,synthetic
+Who is eligible for this scheme?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+What benefits are available under this scheme?,en,BENEFIT_QUERY,benefit,,synthetic
+Which department offers this maintenance allowance scheme?,en,DEPARTMENT_QUERY,dept,,synthetic
+Can private Sainik School students apply for this scheme?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Explain the Maintenance Allowance to Students studying in Sainik Schools scheme.,en,SCHEME_INFO,,,synthetic
+Is Aadhaar-linked bank account mandatory for this scheme?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+सैनिक शाळेतील विद्यार्थ्यांसाठी निर्वाह भत्ता योजना आहे का?,mr,FILTER_SEARCH,,list_expand,synthetic
+सैनिक शाळेतील विद्यार्थ्यांसाठी उपलब्ध योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+या योजनेसाठी आवश्यक कागदपत्रे कोणती आहेत?,mr,DOCUMENT_QUERY,documents,,synthetic
+या योजनेचा लाभ कोणाला मिळतो?,mr,BENEFIT_QUERY,benefit,,synthetic
+या योजनेसाठी पात्रता काय आहे?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी उत्पन्न मर्यादा किती आहे?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+ही योजना कोणत्या विभागाची आहे?,mr,DEPARTMENT_QUERY,dept,,synthetic
+सरकारी सैनिक शाळेतील विद्यार्थी अर्ज करू शकतात का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+सैनिक शाळा निर्वाह भत्ता योजना समजावून सांगा.,mr,SCHEME_INFO,,,synthetic
+या योजनेसाठी आधार लिंक केलेले बँक खाते आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Are there any merit scholarships for VJNT students studying in secondary schools?,en,FILTER_SEARCH,,list_expand,synthetic
+Show merit scholarship schemes for SBC students in ZP schools.,en,FILTER_SEARCH,,list_expand,synthetic
+Who is eligible for the Meritorious Scholarship to VJNT and SBC students?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+What are the eligibility criteria for this merit scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is there any income limit for this scholarship?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Do students need to score at least 50% marks to receive this scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Which department offers the Meritorious Scholarship for VJNT and SBC students?,en,DEPARTMENT_QUERY,dept,,synthetic
+Explain the Meritorious Scholarship for VJNT and SBC students studying in secondary schools.,en,SCHEME_INFO,,,synthetic
+Can students studying in government-aided schools apply for this scholarship?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is an Aadhaar-linked bank account mandatory for this scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+माध्यमिक शाळेतील VJNT विद्यार्थ्यांसाठी गुणवंत शिष्यवृत्ती आहे का?,mr,FILTER_SEARCH,,list_expand,synthetic
+SBC विद्यार्थ्यांसाठी गुणवंत शिष्यवृत्ती योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+या शिष्यवृत्तीसाठी पात्रता काय आहे?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी किमान ५०% गुण आवश्यक आहेत का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या शिष्यवृत्तीसाठी उत्पन्न मर्यादा आहे का?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+ही योजना कोणत्या विभागामार्फत दिली जाते?,mr,DEPARTMENT_QUERY,dept,,synthetic
+ही गुणवंत शिष्यवृत्ती समजावून सांगा.,mr,SCHEME_INFO,,,synthetic
+शासकीय अनुदानित शाळेतील विद्यार्थी अर्ज करू शकतात का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+आधार लिंक केलेले बँक खाते आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+VJNT आणि SBC विद्यार्थ्यांसाठी गुणवंत शिष्यवृत्तीची माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+Are there any Savitribai Phule scholarships for SC girl students?,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarship schemes for girls studying in Classes 5 to 10.,en,FILTER_SEARCH,,list_expand,synthetic
+Who is eligible for the Savitribai Phule Scholarship for girl students?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+What are the eligibility criteria for the Savitribai Phule Scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is there any income limit for this scholarship?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Which department provides the Savitribai Phule Scholarship for girls?,en,DEPARTMENT_QUERY,dept,,synthetic
+Explain the Savitribai Phule Scholarship for girl students studying in Classes 5 to 10.,en,SCHEME_INFO,,,synthetic
+Can SC girl students studying in government-aided schools apply for this scholarship?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is an Aadhaar-linked bank account required for this scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What benefits are available under the Savitribai Phule Scholarship?,en,BENEFIT_QUERY,benefit,,synthetic
+SC मुलींसाठी सावित्रीबाई फुले शिष्यवृत्ती योजना आहे का?,mr,FILTER_SEARCH,,list_expand,synthetic
+इयत्ता ५ वी ते १० वी मधील मुलींसाठी शिष्यवृत्ती योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+या शिष्यवृत्तीसाठी पात्रता काय आहे?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी उत्पन्न मर्यादा आहे का?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+ही योजना कोणत्या विभागाची आहे?,mr,DEPARTMENT_QUERY,dept,,synthetic
+सावित्रीबाई फुले शिष्यवृत्ती योजना समजावून सांगा.,mr,SCHEME_INFO,,,synthetic
+SC प्रवर्गातील मुली अर्ज करू शकतात का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+या योजनेसाठी आधार लिंक केलेले बँक खाते आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या शिष्यवृत्तीअंतर्गत कोणते लाभ मिळतात?,mr,BENEFIT_QUERY,benefit,,synthetic
+SC मुलींसाठी उपलब्ध सावित्रीबाई फुले शिष्यवृत्तीची माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+What is the Government of India Scholarship for 9th and 10th std. - CSS?,en,SCHEME_INFO,,,synthetic
+Who can apply for the Government of India Scholarship for 9th and 10th std. - CSS?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What are the eligibility criteria for the Government of India Scholarship for 9th and 10th std. - CSS?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What documents are required for the Government of India Scholarship for 9th and 10th std. - CSS?,en,DOCUMENT_QUERY,documents,,synthetic
+What benefits are provided under the Government of India Scholarship for 9th and 10th std. - CSS?,en,BENEFIT_QUERY,benefit,,synthetic
+How do I apply for the Government of India Scholarship for 9th and 10th std. - CSS?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+Is there an income limit for the Government of India Scholarship for 9th and 10th std. - CSS?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Can SC students studying in 9th or 10th class apply for this scholarship?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Show scholarships for SC students studying in Class 9 or 10.,en,FILTER_SEARCH,,list_expand,synthetic
+List schemes for students with family income below ₹2.5 lakh.,en,FILTER_SEARCH,,list_expand,synthetic
+Which department offers the Government of India Scholarship for 9th and 10th std. - CSS?,en,DEPARTMENT_QUERY,dept,,synthetic
+सरकारच्या ९वी व १०वी शिष्यवृत्ती (CSS) योजनेची माहिती द्या.,mr,SCHEME_INFO,,,synthetic
+या योजनेसाठी पात्रता काय आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या योजनेसाठी कोणती कागदपत्रे आवश्यक आहेत?,mr,DOCUMENT_QUERY,documents,,synthetic
+या योजनेअंतर्गत किती लाभ मिळतो?,mr,BENEFIT_QUERY,benefit,,synthetic
+या योजनेसाठी अर्ज कसा करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+या योजनेसाठी उत्पन्न मर्यादा किती आहे?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+SC प्रवर्गातील ९वी किंवा १०वीतील विद्यार्थ्यांसाठी शिष्यवृत्ती दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+ही योजना कोणत्या विभागामार्फत राबवली जाते?,mr,DEPARTMENT_QUERY,dept,,synthetic
+Government of India Scholarship for 9th and 10th std. - CSS आणि Savitribai Phule Scholarship मधील फरक काय?,en,COMPARISON,,,synthetic
+What is the Pre-matric Scholarship to Children of those engaged in Unclean Occupation - CSS?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Pre-matric Scholarship to Children of those engaged in Unclean Occupation?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What are the eligibility criteria for the Pre-matric Scholarship to Children of those engaged in Unclean Occupation?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Which documents are required for the Pre-matric Scholarship to Children of those engaged in Unclean Occupation?,en,DOCUMENT_QUERY,documents,,synthetic
+What benefits are provided under this scholarship?,en,BENEFIT_QUERY,benefit,,synthetic
+How can I apply for the Pre-matric Scholarship to Children of those engaged in Unclean Occupation?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+Is there any income limit for this scholarship?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Can children of sanitation workers apply for this scholarship?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Show scholarships for children of parents engaged in hazardous occupations.,en,FILTER_SEARCH,,list_expand,synthetic
+List pre-matric scholarships for students from unclean occupation families.,en,FILTER_SEARCH,,list_expand,synthetic
+Which department provides this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Pre-matric Scholarship to Children of those engaged in Unclean Occupation म्हणजे काय?,mr,SCHEME_INFO,,,synthetic
+या शिष्यवृत्तीसाठी पात्रता काय आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या योजनेसाठी कोणती कागदपत्रे आवश्यक आहेत?,mr,DOCUMENT_QUERY,documents,,synthetic
+या योजनेचे लाभ काय आहेत?,mr,BENEFIT_QUERY,benefit,,synthetic
+या शिष्यवृत्तीसाठी अर्ज कसा करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+या योजनेसाठी उत्पन्नाची अट आहे का?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+अस्वच्छ व धोकादायक व्यवसाय करणाऱ्या पालकांच्या मुलांसाठी शिष्यवृत्ती दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+ही योजना कोणत्या विभागामार्फत दिली जाते?,mr,DEPARTMENT_QUERY,dept,,synthetic
+Pre-matric Scholarship to Children of those engaged in Unclean Occupation आणि Government of India Scholarship for 9th and 10th std. - CSS यामध्ये काय फरक आहे?,en,COMPARISON,,,synthetic
+What is the Maintenance Allowance to SC Students studying in Sainik Schools?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Maintenance Allowance to SC Students studying in Sainik Schools?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What are the eligibility criteria for the SC Sainik School maintenance allowance?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What benefits are provided under the Maintenance Allowance to SC Students studying in Sainik Schools?,en,BENEFIT_QUERY,benefit,,synthetic
+How can I apply for the Maintenance Allowance to SC Students studying in Sainik Schools?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+Is there an income limit for this scheme?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Can SC students studying in private Sainik Schools apply for this scheme?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Show maintenance allowance schemes for SC students studying in Sainik Schools.,en,FILTER_SEARCH,,list_expand,synthetic
+Which department provides the Maintenance Allowance to SC Students studying in Sainik Schools?,en,DEPARTMENT_QUERY,dept,,synthetic
+What is the annual maintenance allowance under this scheme?,en,BENEFIT_QUERY,benefit,,synthetic
+SC विद्यार्थ्यांसाठी सैनिक शाळेतील निर्वाह भत्ता योजना काय आहे?,mr,SCHEME_INFO,,,synthetic
+या योजनेसाठी पात्रता काय आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या योजनेअंतर्गत कोणते लाभ मिळतात?,mr,BENEFIT_QUERY,benefit,,synthetic
+या योजनेसाठी अर्ज कसा करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+या योजनेसाठी उत्पन्न मर्यादा किती आहे?,mr,SCHEME_FIELD_QUERY,income_limit,,synthetic
+खाजगी सैनिक शाळेतील SC विद्यार्थी या योजनेसाठी पात्र आहेत का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+SC विद्यार्थ्यांसाठी सैनिक शाळेतील निर्वाह भत्ता योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+ही योजना कोणत्या विभागामार्फत राबवली जाते?,mr,DEPARTMENT_QUERY,dept,,synthetic
+या योजनेत वार्षिक निर्वाह भत्ता किती मिळतो?,mr,BENEFIT_QUERY,benefit,,synthetic
+Maintenance Allowance to SC Students studying in Sainik Schools आणि Maintenance Allowance to Students studying in Sainik Schools यामध्ये काय फरक आहे?,en,COMPARISON,,,synthetic
+What is the Maharshi Vitthal Ramji Shinde Pre-Matric Tuition Fee and Exam Fee (Freeship) Scheme?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Maharshi Vitthal Ramji Shinde Freeship Scheme?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What are the eligibility criteria for the Maharshi Vitthal Ramji Shinde Freeship Scheme?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What benefits are available under the Maharshi Vitthal Ramji Shinde Freeship Scheme?,en,BENEFIT_QUERY,benefit,,synthetic
+How do I apply for the Maharshi Vitthal Ramji Shinde Freeship Scheme?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+Is BPL mandatory for the Maharshi Vitthal Ramji Shinde Freeship Scheme?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can SC students studying in private aided schools apply for this scheme?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Show tuition fee reimbursement schemes for SC students studying from Class 1 to 10.,en,FILTER_SEARCH,,list_expand,synthetic
+Which department offers the Maharshi Vitthal Ramji Shinde Freeship Scheme?,en,DEPARTMENT_QUERY,dept,,synthetic
+Does this scheme reimburse both tuition fee and examination fee?,en,BENEFIT_QUERY,benefit,,synthetic
+महर्षी विठ्ठल रामजी शिंदे प्री-मॅट्रिक फीमाफी योजना काय आहे?,mr,SCHEME_INFO,,,synthetic
+या योजनेसाठी पात्रता काय आहे?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+या योजनेअंतर्गत कोणते लाभ मिळतात?,mr,BENEFIT_QUERY,benefit,,synthetic
+या योजनेसाठी अर्ज कसा करायचा?,mr,APPLICATION_PROCESS,how_to_apply,,synthetic
+या योजनेसाठी BPL असणे आवश्यक आहे का?,mr,SCHEME_FIELD_QUERY,eligibility,,synthetic
+SC विद्यार्थ्यांना या योजनेचा लाभ मिळू शकतो का?,mr,ELIGIBILITY_MATCH,eligibility,,synthetic
+SC विद्यार्थ्यांसाठी फीमाफी योजना दाखवा.,mr,FILTER_SEARCH,,list_expand,synthetic
+ही योजना कोणत्या विभागामार्फत राबवली जाते?,mr,DEPARTMENT_QUERY,dept,,synthetic
+या योजनेत शिक्षण शुल्क आणि परीक्षा शुल्क भरून मिळते का?,mr,BENEFIT_QUERY,benefit,,synthetic
+Maharshi Vitthal Ramji Shinde Freeship Scheme आणि Government of India Scholarship for 9th and 10th std. - CSS यामध्ये काय फरक आहे?,en,COMPARISON,,,synthetic
+What is the Pre-matric Merit Scholarship for SC students studying in 5th to 10th std?,en,SCHEME_INFO,,,synthetic
+Tell me about the Pre-matric Merit Scholarship for SC students studying in 5th to 10th std.,en,SCHEME_INFO,,,synthetic
+Explain this scholarship.,en,FOLLOW_UP,,,synthetic
+Who can apply for the Pre-matric Merit Scholarship for SC students?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+What is the eligibility criteria?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Am I eligible if I belong to SC?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can BPL students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is Maharashtra domicile mandatory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can Class 5 students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Class 10 students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Are private school students eligible?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students studying in government schools apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Does this scholarship require Aadhaar-linked bank account?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What documents are required?,en,DOCUMENT_QUERY,documents,,synthetic
+Do I need a caste certificate?,en,DOCUMENT_QUERY,documents,,synthetic
+Is income certificate required?,en,DOCUMENT_QUERY,documents,,synthetic
+What benefits are provided?,en,BENEFIT_QUERY,benefit,,synthetic
+How much scholarship amount will I receive?,en,BENEFIT_QUERY,benefit,,synthetic
+Which department offers this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scholarship offered by SJSA?,en,DEPARTMENT_QUERY,dept,,synthetic
+List scholarships for SC students in Class 5 to 10.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for BPL SC students.,en,FILTER_SEARCH,,list_expand,synthetic
+Find scholarships for government school SC students.,en,FILTER_SEARCH,,list_expand,synthetic
+Compare this scholarship with Government of India Scholarship for 9th and 10th std. - CSS.,en,COMPARISON,,,synthetic
+Is there any income limit?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Does renewal have same eligibility?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+If I fail a class can I continue?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can I apply online?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+How do I apply for this scholarship?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+When is the last date to apply?,en,SCHEME_FIELD_QUERY,deadline,,synthetic
+What is the Pre-matric Scholarship for Persons with Disabilities?,en,SCHEME_INFO,,,synthetic
+Tell me about the disability scholarship.,en,SCHEME_INFO,,,synthetic
+Explain this scheme.,en,FOLLOW_UP,,,synthetic
+Who is eligible for the disability scholarship?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students with 40% disability apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+What disability percentage is required?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can hearing impaired students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can intellectually disabled students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can normal school students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can hostel students apply?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is there any income limit?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Is Maharashtra domicile mandatory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Do I need Aadhaar linked bank account?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What documents are required?,en,DOCUMENT_QUERY,documents,,synthetic
+Is disability certificate mandatory?,en,DOCUMENT_QUERY,documents,,synthetic
+Do I need ration card?,en,DOCUMENT_QUERY,documents,,synthetic
+Is caste certificate required?,en,DOCUMENT_QUERY,documents,,synthetic
+What benefits are provided?,en,BENEFIT_QUERY,benefit,,synthetic
+Does this scholarship provide stipend?,en,BENEFIT_QUERY,benefit,,synthetic
+Does it provide maintenance allowance?,en,BENEFIT_QUERY,benefit,,synthetic
+Which department provides this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is it under Persons with Disabilities Welfare Department?,en,DEPARTMENT_QUERY,dept,,synthetic
+List scholarships for disabled students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for persons with disabilities.,en,FILTER_SEARCH,,list_expand,synthetic
+Find scholarships for students with hearing impairment.,en,FILTER_SEARCH,,list_expand,synthetic
+Compare this scholarship with Maintenance Allowance to SC Students studying in Sainik Schools.,en,COMPARISON,,,synthetic
+Can I apply if I already receive another scholarship?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+How do I apply for this scholarship?,en,APPLICATION_PROCESS,how_to_apply,,synthetic
+Can I renew this scholarship next year?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+When is the last date to apply?,en,SCHEME_FIELD_QUERY,deadline,,synthetic
+What is Dr Punjabrao Deshmukh Vastigruh Nirvah Bhatta Yojna?,en,SCHEME_INFO,,,synthetic
+Tell me about Dr Punjabrao Deshmukh Vastigruh Nirvah Bhatta Yojna.,en,SCHEME_INFO,,,synthetic
+Explain the DTE hostel maintenance allowance scheme.,en,SCHEME_INFO,,,synthetic
+Give details about the Dr Punjabrao Deshmukh hostel allowance scheme.,en,SCHEME_INFO,,,synthetic
+What is the purpose of this scheme?,en,SCHEME_INFO,,,synthetic
+Who launched Dr Punjabrao Deshmukh Vastigruh Nirvah Bhatta Yojna?,en,DEPARTMENT_QUERY,dept,,synthetic
+Which department offers this scheme?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scheme provided by Directorate of Technical Education?,en,DEPARTMENT_QUERY,dept,,synthetic
+Which department is responsible for this hostel allowance?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who administers this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who can apply for Dr Punjabrao Deshmukh Vastigruh Nirvah Bhatta Yojna?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Who is eligible for this scheme?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can EBC students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can SEBC students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can General category students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can diploma students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can engineering students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can postgraduate students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can first-year students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students admitted through CAP apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Are management quota students eligible?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students from private universities apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can distance education students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is Maharashtra domicile compulsory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is Aadhaar mandatory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is attendance mandatory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can students receiving another hostel scholarship apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students staying in government hostels apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can children of registered labourers apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is there any restriction on number of children in a family?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+What is the annual income limit?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Is ₹8 lakh the maximum income limit?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Can students with income below ₹1 lakh apply?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Is family income considered?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+How much maintenance allowance is provided?,en,BENEFIT_QUERY,benefit,,synthetic
+What benefits are offered under this scheme?,en,BENEFIT_QUERY,benefit,,synthetic
+How much hostel allowance will I receive?,en,BENEFIT_QUERY,benefit,,synthetic
+Does the scheme include meal allowance?,en,BENEFIT_QUERY,benefit,,synthetic
+Does it include residence allowance?,en,BENEFIT_QUERY,benefit,,synthetic
+Does it include subsistence allowance?,en,BENEFIT_QUERY,benefit,,synthetic
+What is the allowance for students in Mumbai?,en,BENEFIT_QUERY,benefit,,synthetic
+What is the allowance for students in Pune?,en,BENEFIT_QUERY,benefit,,synthetic
+What is the allowance for Taluka students?,en,BENEFIT_QUERY,benefit,,synthetic
+What benefit is given to students from district headquarters?,en,BENEFIT_QUERY,benefit,,synthetic
+Will I get ₹60,000 under this scheme?,en,BENEFIT_QUERY,benefit,,synthetic
+Will I receive the benefit in installments?,en,BENEFIT_QUERY,benefit,,synthetic
+How is the maintenance allowance paid?,en,BENEFIT_QUERY,benefit,,synthetic
+How do I apply for this scheme?,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+Explain the application process.,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+How can I submit an application?,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+Can I renew this scholarship next year?,en,FOLLOW_UP,,,synthetic
+What are the renewal conditions?,en,FOLLOW_UP,,,synthetic
+Can previous beneficiaries renew the scheme?,en,FOLLOW_UP,,,synthetic
+What documents are required?,en,DOCUMENT_QUERY,documents,,synthetic
+Which certificates should I upload?,en,DOCUMENT_QUERY,documents,,synthetic
+Is an income certificate required?,en,DOCUMENT_QUERY,documents,,synthetic
+Is Aadhaar required while applying?,en,DOCUMENT_QUERY,documents,,synthetic
+Show all DTE scholarship schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+List all hostel maintenance allowance schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+Show all EBC scholarship schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+List all SEBC scholarship schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+Show all post-matric hostel allowance schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+Show all technical education scholarship schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+List hostel allowance schemes for engineering students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show all scholarships with hostel maintenance allowance.,en,FILTER_SEARCH,,list_expand,synthetic
+What is Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)?,en,SCHEME_INFO,,,synthetic
+Tell me about the Rajarshi Chhatrapati Shahu Maharaj EBC Scholarship.,en,SCHEME_INFO,,,synthetic
+Explain the DTE EBC tuition fee scholarship.,en,SCHEME_INFO,,,synthetic
+Give complete details of the Rajarshi Chhatrapati Shahu Maharaj scholarship.,en,SCHEME_INFO,,,synthetic
+What is this EBC scholarship scheme?,en,SCHEME_INFO,,,synthetic
+Which department provides the Rajarshi Chhatrapati Shahu Maharaj Scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who administers this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scholarship offered by the Directorate of Technical Education?,en,DEPARTMENT_QUERY,dept,,synthetic
+Which government department runs this scheme?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who is the implementing authority for this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who can apply for the Rajarshi Chhatrapati Shahu Maharaj Scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Who is eligible for this scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can EBC students apply for this scholarship?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can EWS students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can General category students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can SEBC students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can diploma students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can engineering students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can postgraduate students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can first-year students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students admitted through CAP apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Are management quota students eligible?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students from private universities apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students pursuing distance education apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can part-time students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is Maharashtra domicile compulsory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is Aadhaar mandatory for this scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is 50% attendance compulsory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Do I need to appear for every semester exam?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is there any restriction on the number of children eligible in a family?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can I receive another scholarship along with this one?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+What is the maximum annual family income allowed?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Is ₹8 lakh the income limit?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Can students with family income below ₹8 lakh apply?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Does the scholarship consider parents' combined income?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+How much tuition fee reimbursement is provided?,en,BENEFIT_QUERY,benefit,,synthetic
+What benefits are available under this scholarship?,en,BENEFIT_QUERY,benefit,,synthetic
+Will female students get 100% tuition fee reimbursement?,en,BENEFIT_QUERY,benefit,,synthetic
+Will female students receive full exam fee reimbursement?,en,BENEFIT_QUERY,benefit,,synthetic
+How much tuition fee is reimbursed for male students?,en,BENEFIT_QUERY,benefit,,synthetic
+How much exam fee is reimbursed for male students?,en,BENEFIT_QUERY,benefit,,synthetic
+Does this scholarship cover the full tuition fee?,en,BENEFIT_QUERY,benefit,,synthetic
+Does this scholarship reimburse examination fees?,en,BENEFIT_QUERY,benefit,,synthetic
+Will the scholarship amount be paid in installments?,en,BENEFIT_QUERY,benefit,,synthetic
+How is the scholarship amount disbursed?,en,BENEFIT_QUERY,benefit,,synthetic
+How do I apply for this scholarship?,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+Explain the application process for this scholarship.,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+How can I submit my application online?,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+Can I renew this scholarship next year?,en,FOLLOW_UP,,,synthetic
+What are the renewal conditions?,en,FOLLOW_UP,,,synthetic
+Can previous beneficiaries renew this scholarship?,en,FOLLOW_UP,,,synthetic
+What documents are required for this scholarship?,en,DOCUMENT_QUERY,documents,,synthetic
+Which certificates should I upload while applying?,en,DOCUMENT_QUERY,documents,,synthetic
+Is an income certificate required?,en,DOCUMENT_QUERY,documents,,synthetic
+Is Aadhaar required while applying?,en,DOCUMENT_QUERY,documents,,synthetic
+Show all DTE scholarship schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+List all EBC scholarship schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+Show all scholarships for General category students.,en,FILTER_SEARCH,,list_expand,synthetic
+List all scholarships for SEBC students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show all fee reimbursement schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+List all post-matric scholarship schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+Show all scholarships with tuition fee reimbursement.,en,FILTER_SEARCH,,list_expand,synthetic
+List all technical education scholarships.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for professional courses.,en,FILTER_SEARCH,,list_expand,synthetic
+What is the Scholarship for students of minority communities pursuing Higher and Professional courses?,en,SCHEME_INFO,,,synthetic
+Tell me about the Minority Scholarship under DTE.,en,SCHEME_INFO,,,synthetic
+Explain the DTE Minority Scholarship.,en,SCHEME_INFO,,,synthetic
+Give complete details of the Minority Scholarship.,en,SCHEME_INFO,,,synthetic
+What is the Higher and Professional Courses Minority Scholarship?,en,SCHEME_INFO,,,synthetic
+Which department offers the Minority Scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who provides the Minority Scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scholarship under the Directorate of Technical Education?,en,DEPARTMENT_QUERY,dept,,synthetic
+Which government department manages this scheme?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who implements this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who is eligible for the Minority Scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can minority students apply for this scholarship?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Muslim students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Christian students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Buddhist students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Jain students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Sikh students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Parsi students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Jewish students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can diploma students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can engineering students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can postgraduate students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students admitted through CAP apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Are management quota students eligible?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is Maharashtra domicile compulsory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is Aadhaar mandatory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is SSC from Maharashtra mandatory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is 50% attendance compulsory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can I renew this scholarship next year?,en,FOLLOW_UP,,,synthetic
+Can previous beneficiaries renew this scholarship?,en,FOLLOW_UP,,,synthetic
+What is the income limit for this scholarship?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+Is ₹8 lakh the maximum family income?,en,SCHEME_FIELD_QUERY,income_limit,,synthetic
+How much scholarship amount will I receive?,en,BENEFIT_QUERY,benefit,,synthetic
+What benefits are provided under this scholarship?,en,BENEFIT_QUERY,benefit,,synthetic
+Does this scholarship reimburse tuition fees?,en,BENEFIT_QUERY,benefit,,synthetic
+Does this scholarship reimburse examination fees?,en,BENEFIT_QUERY,benefit,,synthetic
+Is the benefit limited to ₹50,000?,en,BENEFIT_QUERY,benefit,,synthetic
+How is the scholarship amount paid?,en,BENEFIT_QUERY,benefit,,synthetic
+Is there reservation for girl students?,en,SCHEME_FIELD_QUERY,benefit,,synthetic
+What percentage of scholarships are reserved for girls?,en,SCHEME_FIELD_QUERY,benefit,,synthetic
+How do I apply for this scholarship?,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+Explain the application process.,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+Can I apply online?,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+What documents are required?,en,DOCUMENT_QUERY,documents,,synthetic
+Which certificates should I upload?,en,DOCUMENT_QUERY,documents,,synthetic
+Is income certificate required?,en,DOCUMENT_QUERY,documents,,synthetic
+Show all minority scholarships.,en,FILTER_SEARCH,,list_expand,synthetic
+List all DTE scholarships for minority students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for Muslim students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for Christian students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for Buddhist students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for Jain students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for Sikh students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for Parsi students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for students with family income below ₹8 lakh.,en,FILTER_SEARCH,,list_expand,synthetic
+List post-matric minority scholarships.,en,FILTER_SEARCH,,list_expand,synthetic
+What is the Assistance to Meritorious Students Scholarship - Junior Level?,en,SCHEME_INFO,,,synthetic
+Tell me about the Junior Level Meritorious Students Scholarship.,en,SCHEME_INFO,,,synthetic
+Explain the DHE Meritorious Students Scholarship.,en,SCHEME_INFO,,,synthetic
+Give complete details of the Junior Level Scholarship.,en,SCHEME_INFO,,,synthetic
+What is the Assistance to Meritorious Students Scheme?,en,SCHEME_INFO,,,synthetic
+Which department provides this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who administers the Junior Level Scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Is this scholarship under the Directorate of Higher Education?,en,DEPARTMENT_QUERY,dept,,synthetic
+Which government department offers this scholarship?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who is the implementing authority?,en,DEPARTMENT_QUERY,dept,,synthetic
+Who is eligible for the Junior Level Scholarship?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can Class 11 students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Class 12 students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students studying outside Maharashtra apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can Maharashtra students studying outside the state apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students from government colleges apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can students from government-aided colleges apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can private recognized college students apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Is Aadhaar mandatory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Do I need a DHE scholarship sanction letter?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Is Maharashtra domicile compulsory?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can scholarship recipients renew this scheme?,en,FOLLOW_UP,,,synthetic
+What are the renewal conditions?,en,FOLLOW_UP,,,synthetic
+Do I need 55% marks for renewal?,en,SCHEME_FIELD_QUERY,eligibility,,synthetic
+Can I receive another scholarship with this one?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can backward-class students receive both scholarships?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+Can National Talent Search Scholarship holders apply?,en,ELIGIBILITY_MATCH,eligibility,,synthetic
+What financial assistance is provided?,en,BENEFIT_QUERY,benefit,,synthetic
+Does this scholarship cover tuition fees?,en,BENEFIT_QUERY,benefit,,synthetic
+Does it reimburse examination fees?,en,BENEFIT_QUERY,benefit,,synthetic
+Is hostel fee covered?,en,BENEFIT_QUERY,benefit,,synthetic
+Are food charges included?,en,BENEFIT_QUERY,benefit,,synthetic
+Will I receive book allowance?,en,BENEFIT_QUERY,benefit,,synthetic
+Does the scholarship pay laboratory fees?,en,BENEFIT_QUERY,benefit,,synthetic
+Does the scholarship pay library fees?,en,BENEFIT_QUERY,benefit,,synthetic
+Is gymkhana fee reimbursed?,en,BENEFIT_QUERY,benefit,,synthetic
+How is the scholarship amount paid?,en,BENEFIT_QUERY,benefit,,synthetic
+How do I apply for this scholarship?,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+Explain the application process.,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+Can I apply online?,en,SCHEME_FIELD_QUERY,how_to_apply,,synthetic
+What documents are required?,en,DOCUMENT_QUERY,documents,,synthetic
+Which certificates should I upload?,en,DOCUMENT_QUERY,documents,,synthetic
+Is the DHE sanction letter required while applying?,en,DOCUMENT_QUERY,documents,,synthetic
+Show all DHE scholarship schemes.,en,FILTER_SEARCH,,list_expand,synthetic
+List all scholarships for Class 11 students.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships for meritorious students.,en,FILTER_SEARCH,,list_expand,synthetic
+List all Junior College scholarships.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships with hostel allowance.,en,FILTER_SEARCH,,list_expand,synthetic
+Show scholarships with fee reimbursement.,en,FILTER_SEARCH,,list_expand,synthetic
+List all post-matric scholarships under DHE.,en,FILTER_SEARCH,,list_expand,synthetic
+Tell me about the Assistance to Meritorious Students scholarship - Senior Level.,en,SCHEME_INFO,,,synthetic
+What is the Assistance to Meritorious Students scholarship - Senior Level?,en,SCHEME_INFO,,,synthetic
+Can you explain the Assistance to Meritorious Students scholarship - Senior Level?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Assistance to Meritorious Students scholarship - Senior Level?,en,ELIGIBILITY,,,synthetic
+What are the eligibility criteria for the Assistance to Meritorious Students scholarship - Senior Level?,en,ELIGIBILITY,,,synthetic
+Can diploma students apply for the Assistance to Meritorious Students scholarship - Senior Level?,en,ELIGIBILITY,,,synthetic
+Can postgraduate students apply for the Assistance to Meritorious Students scholarship - Senior Level?,en,ELIGIBILITY,,,synthetic
+Is Maharashtra domicile required for the Assistance to Meritorious Students scholarship - Senior Level?,en,ELIGIBILITY,,,synthetic
+Are distance education students eligible for the Assistance to Meritorious Students scholarship - Senior Level?,en,ELIGIBILITY,,,synthetic
+Can I study outside Maharashtra and still get the Assistance to Meritorious Students scholarship - Senior Level?,en,ELIGIBILITY,,,synthetic
+What benefits are available under the Assistance to Meritorious Students scholarship - Senior Level?,en,BENEFITS,,,synthetic
+Does the Assistance to Meritorious Students scholarship - Senior Level cover tuition fees?,en,BENEFITS,,,synthetic
+Does the Assistance to Meritorious Students scholarship - Senior Level cover examination fees?,en,BENEFITS,,,synthetic
+Does the Assistance to Meritorious Students scholarship - Senior Level provide hostel allowance?,en,BENEFITS,,,synthetic
+Does the Assistance to Meritorious Students scholarship - Senior Level provide book allowance?,en,BENEFITS,,,synthetic
+Can I renew the Assistance to Meritorious Students scholarship - Senior Level?,en,RENEWAL,,,synthetic
+What are the renewal conditions for the Assistance to Meritorious Students scholarship - Senior Level?,en,RENEWAL,,,synthetic
+How many marks are required for renewal of the Assistance to Meritorious Students scholarship - Senior Level?,en,RENEWAL,,,synthetic
+What documents are required for the Assistance to Meritorious Students scholarship - Senior Level?,en,DOCUMENTS,,,synthetic
+Which department offers the Assistance to Meritorious Students scholarship - Senior Level?,en,DEPARTMENT,,,synthetic
+Tell me about Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE).,en,SCHEME_INFO,,,synthetic
+What is Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,SCHEME_INFO,,,synthetic
+Can you explain Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,SCHEME_INFO,,,synthetic
+Who is eligible for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+What are the eligibility criteria for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+What is the income limit for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+Can EBC students apply for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+Can SEBC students apply for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+Can Open category students apply for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+Can students pursuing professional courses apply for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+Can students pursuing non-professional courses apply for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+Is Maharashtra domicile required for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+Can students admitted through Management Quota apply for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+Can students staying in Government hostels apply for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,ELIGIBILITY,,,synthetic
+What benefits are available under Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,BENEFITS,,,synthetic
+How much maintenance allowance is provided under Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,BENEFITS,,,synthetic
+What is the maintenance allowance for Mumbai students under Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,BENEFITS,,,synthetic
+What is the maintenance allowance for Taluka students under Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,BENEFITS,,,synthetic
+Can I renew Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,RENEWAL,,,synthetic
+What documents are required for Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,DOCUMENTS,,,synthetic
+Which department offers Dr. Punjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DHE)?,en,DEPARTMENT,,,synthetic
+Tell me about the Education Concession to the Children of Freedom Fighter.,en,SCHEME_INFO,,,synthetic
+What is the Education Concession to the Children of Freedom Fighter scheme?,en,SCHEME_INFO,,,synthetic
+Can you explain the Education Concession to the Children of Freedom Fighter scheme?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Education Concession to the Children of Freedom Fighter scheme?,en,ELIGIBILITY,,,synthetic
+What are the eligibility criteria for the Education Concession to the Children of Freedom Fighter scheme?,en,ELIGIBILITY,,,synthetic
+Can grandchildren of Freedom Fighters apply for the Education Concession to the Children of Freedom Fighter scheme?,en,ELIGIBILITY,,,synthetic
+Can adopted children of Freedom Fighters apply for this scheme?,en,ELIGIBILITY,,,synthetic
+Can wives of Freedom Fighters apply for this scheme?,en,ELIGIBILITY,,,synthetic
+Can postgraduate students apply for the Education Concession to the Children of Freedom Fighter scheme?,en,ELIGIBILITY,,,synthetic
+Can students pursuing professional courses apply for the Education Concession to the Children of Freedom Fighter scheme?,en,ELIGIBILITY,,,synthetic
+Is Maharashtra domicile required for the Education Concession to the Children of Freedom Fighter scheme?,en,ELIGIBILITY,,,synthetic
+Can students studying outside Maharashtra apply for the Education Concession to the Children of Freedom Fighter scheme?,en,ELIGIBILITY,,,synthetic
+Are distance education students eligible for the Education Concession to the Children of Freedom Fighter scheme?,en,ELIGIBILITY,,,synthetic
+What benefits are available under the Education Concession to the Children of Freedom Fighter scheme?,en,BENEFITS,,,synthetic
+Does the Education Concession to the Children of Freedom Fighter scheme cover tuition and admission fees?,en,BENEFITS,,,synthetic
+Does the Education Concession to the Children of Freedom Fighter scheme provide book allowance?,en,BENEFITS,,,synthetic
+Does the Education Concession to the Children of Freedom Fighter scheme provide additional scholarship amount?,en,BENEFITS,,,synthetic
+What documents are required for the Education Concession to the Children of Freedom Fighter scheme?,en,DOCUMENTS,,,synthetic
+Which department offers the Education Concession to the Children of Freedom Fighter scheme?,en,DEPARTMENT,,,synthetic
+Is Aadhaar-linked bank account mandatory for the Education Concession to the Children of Freedom Fighter scheme?,en,ELIGIBILITY,,,synthetic
+Tell me about the Education Concession to the Children of Ex-Servicemen.,en,SCHEME_INFO,,,synthetic
+What is the Education Concession to the Children of Ex-Servicemen scheme?,en,SCHEME_INFO,,,synthetic
+Can you explain the Education Concession to the Children of Ex-Servicemen scheme?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+What are the eligibility criteria for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+Can daughters of Ex-Servicemen apply for this scheme?,en,ELIGIBILITY,,,synthetic
+Can widows of Ex-Servicemen apply for this scheme?,en,ELIGIBILITY,,,synthetic
+Can wives of Ex-Servicemen apply for this scheme?,en,ELIGIBILITY,,,synthetic
+Can professional course students apply for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+Is Maharashtra domicile required for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+Can students studying outside Maharashtra apply for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+Are distance education students eligible for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+What is the income limit for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+Can EWS students apply for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+Can SEBC students apply for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+What benefits are available under the Education Concession to the Children of Ex-Servicemen scheme?,en,BENEFITS,,,synthetic
+Does the Education Concession to the Children of Ex-Servicemen scheme cover tuition fees?,en,BENEFITS,,,synthetic
+What documents are required for the Education Concession to the Children of Ex-Servicemen scheme?,en,DOCUMENTS,,,synthetic
+Which department offers the Education Concession to the Children of Ex-Servicemen scheme?,en,DEPARTMENT,,,synthetic
+Is Aadhaar-linked bank account mandatory for the Education Concession to the Children of Ex-Servicemen scheme?,en,ELIGIBILITY,,,synthetic
+Tell me about the Eklavya Scholarship.,en,SCHEME_INFO,,,synthetic
+What is the Eklavya Scholarship?,en,SCHEME_INFO,,,synthetic
+Can you explain the Eklavya Scholarship?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Eklavya Scholarship?,en,ELIGIBILITY,eligibility,Eklavya Scholarship,synthetic
+What are the eligibility criteria for the Eklavya Scholarship?,en,ELIGIBILITY,eligibility,Eklavya Scholarship,synthetic
+Am I eligible for the Eklavya Scholarship?,en,ELIGIBILITY,eligibility,Eklavya Scholarship,synthetic
+What is the income limit for the Eklavya Scholarship?,en,ELIGIBILITY,income,Eklavya Scholarship,synthetic
+Is the annual family income limit ₹75,000 for the Eklavya Scholarship?,en,ELIGIBILITY,income,Eklavya Scholarship,synthetic
+Can unemployed students apply for the Eklavya Scholarship?,en,ELIGIBILITY,employment,Eklavya Scholarship,synthetic
+Can employed students apply for the Eklavya Scholarship?,en,ELIGIBILITY,employment,Eklavya Scholarship,synthetic
+Is full-time admission mandatory for the Eklavya Scholarship?,en,ELIGIBILITY,course_mode,Eklavya Scholarship,synthetic
+Can part-time students apply for the Eklavya Scholarship?,en,ELIGIBILITY,course_mode,Eklavya Scholarship,synthetic
+What percentage is required for Science graduates under the Eklavya Scholarship?,en,ELIGIBILITY,marks,Eklavya Scholarship,synthetic
+What percentage is required for Arts, Commerce, or Law graduates under the Eklavya Scholarship?,en,ELIGIBILITY,marks,Eklavya Scholarship,synthetic
+Is attendance mandatory for the Eklavya Scholarship?,en,ELIGIBILITY,attendance,Eklavya Scholarship,synthetic
+What is the minimum attendance required for the Eklavya Scholarship?,en,ELIGIBILITY,attendance,Eklavya Scholarship,synthetic
+Can B.Ed. students apply for the Eklavya Scholarship?,en,ELIGIBILITY,course,Eklavya Scholarship,synthetic
+Are MBA or MCA students eligible for the Eklavya Scholarship?,en,ELIGIBILITY,course,Eklavya Scholarship,synthetic
+Can PhD students apply for the Eklavya Scholarship?,en,ELIGIBILITY,course,Eklavya Scholarship,synthetic
+Can students studying outside Maharashtra apply for the Eklavya Scholarship?,en,ELIGIBILITY,residence,Eklavya Scholarship,synthetic
+Can private university students apply for the Eklavya Scholarship?,en,ELIGIBILITY,institution,Eklavya Scholarship,synthetic
+Can I receive another government scholarship along with the Eklavya Scholarship?,en,ELIGIBILITY,other_scholarship,Eklavya Scholarship,synthetic
+What benefits are provided under the Eklavya Scholarship?,en,BENEFITS,benefits,Eklavya Scholarship,synthetic
+Does the Eklavya Scholarship cover examination fees?,en,BENEFITS,exam_fee,Eklavya Scholarship,synthetic
+Can I renew the Eklavya Scholarship?,en,RENEWAL,renewal,Eklavya Scholarship,synthetic
+Is Aadhaar-linked bank account mandatory for the Eklavya Scholarship?,en,DOCUMENTS,documents,Eklavya Scholarship,synthetic
+Tell me about the Government Research Adhichatra.,en,SCHEME_INFO,,,synthetic
+What is the Government Research Adhichatra scheme?,en,SCHEME_INFO,,,synthetic
+Can you explain the Government Research Adhichatra scholarship?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Government Research Adhichatra?,en,ELIGIBILITY,eligibility,Government Research Adhichatra,synthetic
+What are the eligibility criteria for Government Research Adhichatra?,en,ELIGIBILITY,eligibility,Government Research Adhichatra,synthetic
+Can PhD students apply for Government Research Adhichatra?,en,ELIGIBILITY,course,Government Research Adhichatra,synthetic
+Is Government Research Adhichatra only for postgraduate students?,en,ELIGIBILITY,education,Government Research Adhichatra,synthetic
+What academic marks are required for Government Research Adhichatra?,en,ELIGIBILITY,marks,Government Research Adhichatra,synthetic
+Is there any income limit for Government Research Adhichatra?,en,ELIGIBILITY,income,Government Research Adhichatra,synthetic
+Can students outside Maharashtra apply for Government Research Adhichatra?,en,ELIGIBILITY,residence,Government Research Adhichatra,synthetic
+Can students studying in private universities apply for Government Research Adhichatra?,en,ELIGIBILITY,institution,Government Research Adhichatra,synthetic
+How long is the fellowship under Government Research Adhichatra?,en,BENEFITS,duration,Government Research Adhichatra,synthetic
+What benefits are available under Government Research Adhichatra?,en,BENEFITS,benefits,Government Research Adhichatra,synthetic
+Does Government Research Adhichatra provide a stipend?,en,BENEFITS,stipend,Government Research Adhichatra,synthetic
+Does Government Research Adhichatra cover tuition fees?,en,BENEFITS,tuition_fee,Government Research Adhichatra,synthetic
+Can Government Research Adhichatra be renewed?,en,RENEWAL,renewal,Government Research Adhichatra,synthetic
+Is Aadhaar-linked bank account mandatory for Government Research Adhichatra?,en,DOCUMENTS,documents,Government Research Adhichatra,synthetic
+Which institutes are eligible under Government Research Adhichatra?,en,ELIGIBILITY,institution,Government Research Adhichatra,synthetic
+Can I pursue more than one research programme under Government Research Adhichatra?,en,ELIGIBILITY,research_programme,Government Research Adhichatra,synthetic
+How many Government Research Adhichatra fellowships are available?,en,SCHEME_INFO,seats,Government Research Adhichatra,synthetic
+Tell me about the Government Vidyaniketan Scholarship.,en,SCHEME_INFO,,,synthetic
+What is the Government Vidyaniketan Scholarship?,en,SCHEME_INFO,,,synthetic
+Can you explain the Government Vidyaniketan Scholarship?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,eligibility,,synthetic
+Can 10th pass students apply for the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,education_level,,synthetic
+Is the Government Vidyaniketan Scholarship only for students from Government Vidyaniketan schools?,en,ELIGIBILITY,eligibility,,synthetic
+What percentage is required to apply for the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,marks,,synthetic
+Do I need 60% in SSC to get the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,marks,,synthetic
+Is Aadhaar-linked bank account mandatory for the Government Vidyaniketan Scholarship?,en,DOCUMENTS,bank_account,,synthetic
+Can I renew the Government Vidyaniketan Scholarship?,en,RENEWAL,renewal,,synthetic
+How are students selected for the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,selection,,synthetic
+Who can apply for the Government Vidyaniketan Scholarship in Maharashtra?,en,ELIGIBILITY,state,,synthetic
+Can students studying outside Maharashtra apply for the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,state,,synthetic
+Is domicile of Maharashtra required for the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,domicile,,synthetic
+How many seats are available under the Government Vidyaniketan Scholarship?,en,SCHEME_INFO,seats,,synthetic
+Which Government Vidyaniketan institutions are covered under this scholarship?,en,SCHEME_INFO,institutions,,synthetic
+Can I receive another government scholarship along with the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,other_scholarship,,synthetic
+What benefits are provided under the Government Vidyaniketan Scholarship?,en,BENEFITS,benefits,,synthetic
+Does the Government Vidyaniketan Scholarship cover tuition fees?,en,BENEFITS,tuition_fee,,synthetic
+Does the Government Vidyaniketan Scholarship reimburse exam fees?,en,BENEFITS,exam_fee,,synthetic
+What is the income limit for the Government Vidyaniketan Scholarship?,en,ELIGIBILITY,income,,synthetic
+Is the Government Vidyaniketan Scholarship available for EWS students?,en,ELIGIBILITY,caste,,synthetic
+Is the Government Vidyaniketan Scholarship available for SEBC students?,en,ELIGIBILITY,caste,,synthetic
+Tell me about the Jawaharlal Nehru University Scholarship.,en,SCHEME_INFO,,,synthetic
+What is the Jawaharlal Nehru University Scholarship?,en,SCHEME_INFO,,,synthetic
+Can you explain the Jawaharlal Nehru University Scholarship?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Jawaharlal Nehru University Scholarship?,en,ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Jawaharlal Nehru University Scholarship?,en,ELIGIBILITY,eligibility,,synthetic
+Can JRF students apply for the Jawaharlal Nehru University Scholarship?,en,ELIGIBILITY,course,,synthetic
+Is the Jawaharlal Nehru University Scholarship only for JNU students?,en,ELIGIBILITY,institution,,synthetic
+Do I need to study at Jawaharlal Nehru University to get this scholarship?,en,ELIGIBILITY,institution,,synthetic
+Who selects the recipient of the Jawaharlal Nehru University Scholarship?,en,ELIGIBILITY,selection,,synthetic
+How many students receive the Jawaharlal Nehru University Scholarship each year?,en,SCHEME_INFO,seats,,synthetic
+Can I renew the Jawaharlal Nehru University Scholarship?,en,RENEWAL,renewal,,synthetic
+What documents are required for renewal of the Jawaharlal Nehru University Scholarship?,en,RENEWAL,progress_report,,synthetic
+Is Aadhaar-linked bank account mandatory for the Jawaharlal Nehru University Scholarship?,en,DOCUMENTS,bank_account,,synthetic
+Can I pursue more than one course under the Jawaharlal Nehru University Scholarship?,en,ELIGIBILITY,course,,synthetic
+Can students studying outside Maharashtra apply for the Jawaharlal Nehru University Scholarship?,en,ELIGIBILITY,state,,synthetic
+Is Maharashtra domicile required for the Jawaharlal Nehru University Scholarship?,en,ELIGIBILITY,domicile,,synthetic
+Are part-time or distance courses eligible for the Jawaharlal Nehru University Scholarship?,en,ELIGIBILITY,course_mode,,synthetic
+What benefits are provided under the Jawaharlal Nehru University Scholarship?,en,BENEFITS,benefits,,synthetic
+Does the Jawaharlal Nehru University Scholarship reimburse tuition fees?,en,BENEFITS,tuition_fee,,synthetic
+Does the Jawaharlal Nehru University Scholarship reimburse exam fees?,en,BENEFITS,exam_fee,,synthetic
+What is the income limit for the Jawaharlal Nehru University Scholarship?,en,ELIGIBILITY,income,,synthetic
+Is the Jawaharlal Nehru University Scholarship available for EWS students?,en,ELIGIBILITY,caste,,synthetic
+Is the Jawaharlal Nehru University Scholarship available for SEBC students?,en,ELIGIBILITY,caste,,synthetic
+Tell me about the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme.,en,SCHEME_INFO,,,synthetic
+What is the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,,,synthetic
+Can you explain the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,,synthetic
+What are the eligibility criteria for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,,synthetic
+What documents are required for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,documents,,synthetic
+What benefits are provided under the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,benefits,,synthetic
+How much scholarship amount is provided under the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,benefits,scholarship amount,synthetic
+Does the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme cover tuition fees?,en,SCHEME_INFO,benefits,tuition fee,synthetic
+Does the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme reimburse examination fees?,en,SCHEME_INFO,benefits,exam fee,synthetic
+Can EBC students apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,caste,synthetic
+Is the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme available for SEBC students?,en,SCHEME_INFO,eligibility,caste,synthetic
+Can Open category students apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,caste,synthetic
+Are minority students eligible for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,caste,synthetic
+What is the income limit for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,income,synthetic
+Is the income limit ₹8 lakh for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,income,synthetic
+Can students with annual family income above ₹8 lakh apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,income,synthetic
+Is Aadhaar-linked bank account mandatory for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,Aadhaar,synthetic
+Can renewal students apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,renewal,,synthetic
+What are the renewal conditions for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,renewal,,synthetic
+Is there any attendance requirement for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,attendance,synthetic
+Is 50% attendance mandatory under the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,attendance,synthetic
+Can students admitted through the management quota apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,admission quota,synthetic
+Are distance learning students eligible for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,course mode,synthetic
+Are private university students eligible for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,institution,synthetic
+Can diploma students apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,course level,synthetic
+Is the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme available for junior college students?,en,SCHEME_INFO,eligibility,course level,synthetic
+Can research scholars apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,course level,synthetic
+Can students studying in government colleges apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,institution,synthetic
+Can students studying in aided colleges apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,institution,synthetic
+Can students studying in permanently unaided institutions apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,institution,synthetic
+Can a student receive another scholarship along with the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,rules,other scholarship,synthetic
+What admission process is required for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,eligibility,admission process,synthetic
+Who can get the ₹5,000 fixed benefit under the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme?,en,SCHEME_INFO,benefits,fixed benefit,synthetic
+Does the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme provide support for JNU students?,en,SCHEME_INFO,benefits,JNU,synthetic
+Is the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme only for Maharashtra domicile students?,en,SCHEME_INFO,eligibility,domicile,synthetic
+Who can apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Scheme in Maharashtra?,en,SCHEME_INFO,eligibility,domicile,synthetic
+Tell me about the Scholarship to Meritorious Students possessing Mathematics / Physics.,en,SCHEME_INFO,,,synthetic
+What is the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_INFO,,,synthetic
+Can you explain the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can first-year college students apply for the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Is Aadhaar mandatory for the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Can renewal students apply for the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,renewal,,synthetic
+What are the rules for the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,rules,,synthetic
+Is Maharashtra domicile required for the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,domicile,,synthetic
+Can students studying outside Maharashtra apply for the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,location,,synthetic
+Are distance learning students eligible for the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+What marks are required to get the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_ELIGIBILITY,marks,,synthetic
+How much scholarship amount is provided under the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_BENEFITS,benefits,,synthetic
+What financial assistance is provided under the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_BENEFITS,benefits,,synthetic
+Which colleges are covered under the Scholarship to Meritorious Students possessing Mathematics / Physics?,en,SCHEME_BENEFITS,institutions,,synthetic
+Who can apply for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_INFO,,,synthetic
+Tell me about the State Government Daxshina Adhichatra Scholarship.,en,SCHEME_INFO,,,synthetic
+What is the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_INFO,,,synthetic
+What are the eligibility criteria for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Who is eligible for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can postgraduate students apply for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,education_level,,synthetic
+Is first class in graduation required for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,marks,,synthetic
+Can second-class students apply for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,marks,,synthetic
+Is Aadhaar mandatory for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Can renewal students apply for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,renewal,,synthetic
+What are the rules for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,rules,,synthetic
+Can employed students receive the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,employment,,synthetic
+Can students pursuing two courses apply for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,course,,synthetic
+Is Maharashtra domicile compulsory for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,domicile,,synthetic
+Can students studying outside Maharashtra apply for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,location,,synthetic
+Are distance education students eligible for the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+How much financial assistance is provided under the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_BENEFITS,benefits,,synthetic
+What is the scholarship amount under the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_BENEFITS,benefits,,synthetic
+Does the State Government Daxshina Adhichatra Scholarship provide a stipend?,en,SCHEME_BENEFITS,stipend,,synthetic
+Which universities are covered under the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_BENEFITS,institutions,,synthetic
+Which government colleges are eligible under the State Government Daxshina Adhichatra Scholarship?,en,SCHEME_BENEFITS,institutions,,synthetic
+Tell me about the State Government Open Merit Scholarship.,en,SCHEME_INFO,,,synthetic
+What is the State Government Open Merit Scholarship?,en,SCHEME_INFO,,,synthetic
+Can you explain the State Government Open Merit Scholarship?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can undergraduate Arts students apply for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,course,,synthetic
+Is the State Government Open Merit Scholarship available for Commerce students?,en,SCHEME_ELIGIBILITY,course,,synthetic
+Can Law students apply for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,course,,synthetic
+What is the minimum 12th percentage required for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,marks,,synthetic
+Do I need 60% in Class 12 to apply for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,marks,,synthetic
+Can students studying outside Maharashtra apply for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,residence,,synthetic
+Is Maharashtra domicile mandatory for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,residence,,synthetic
+Can distance education students apply for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+What benefits are provided under the State Government Open Merit Scholarship?,en,SCHEME_BENEFITS,benefits,,synthetic
+How much scholarship amount is given under the State Government Open Merit Scholarship?,en,SCHEME_BENEFITS,benefits,,synthetic
+Is there any income limit for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can I renew the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,renewal,,synthetic
+Is Aadhaar-linked bank account mandatory for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+How many scholarship seats are available under the State Government Open Merit Scholarship?,en,SCHEME_INFO,seats,,synthetic
+Which colleges are eligible for the State Government Open Merit Scholarship?,en,SCHEME_ELIGIBILITY,institution,,synthetic
+
+Tell me about the State Minority Scholarship Part II (DHE).,en,SCHEME_INFO,,,synthetic
+What is the State Minority Scholarship Part II (DHE)?,en,SCHEME_INFO,,,synthetic
+Can you explain the State Minority Scholarship Part II (DHE)?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What is the income limit for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Is the income limit ₹8 lakh for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can minority students apply for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,community,,synthetic
+Which minority communities are eligible under the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,community,,synthetic
+Is EWS category required for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can students from private universities apply for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,institution,,synthetic
+Is admission through management quota allowed for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+What benefits are available under the State Minority Scholarship Part II (DHE)?,en,SCHEME_BENEFITS,benefits,,synthetic
+Does the State Minority Scholarship Part II (DHE) cover admission and semester fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Can girls apply for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,gender,,synthetic
+Is there reservation for girls in the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,gender,,synthetic
+Can I renew the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,renewal,,synthetic
+Is Aadhaar-linked bank account compulsory for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Can students studying outside Maharashtra apply for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,residence,,synthetic
+Is minimum attendance required for the State Minority Scholarship Part II (DHE)?,en,SCHEME_ELIGIBILITY,attendance,,synthetic
+Tell me about the Dr Panjabrao Deshmukh Hostel Maintenance Allowance.,en,SCHEME_INFO,,,synthetic
+What is the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_INFO,,,synthetic
+Can you explain the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What is the income limit for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can EBC students apply for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Are SEBC students eligible for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can Open category (EWS) students apply for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Is hostel allotment mandatory for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,hostel,,synthetic
+Can students staying outside Government hostels get the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,hostel,,synthetic
+What benefits are provided under the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_BENEFITS,benefits,,synthetic
+How much maintenance allowance is provided under the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_BENEFITS,benefits,,synthetic
+Is Aadhaar-linked bank account mandatory for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Can management quota students apply for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can students from private universities apply for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,institution,,synthetic
+Is minimum attendance required for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,attendance,,synthetic
+Can I renew the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,renewal,,synthetic
+How many students are selected under the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_INFO,selection,,synthetic
+Can students receiving another hostel allowance apply for the Dr Panjabrao Deshmukh Hostel Maintenance Allowance?,en,SCHEME_ELIGIBILITY,other_scholarship,,synthetic
+
+Tell me about the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme.,en,SCHEME_INFO,,,synthetic
+What is the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_INFO,,,synthetic
+Can you explain the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What is the income limit for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can EBC students apply for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Are SEBC students eligible for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can Open category (EWS) students apply for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+What benefits are available under the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_BENEFITS,benefits,,synthetic
+Does the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme reimburse tuition fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Does the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme cover exam fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Can management quota students apply for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can students from private universities apply for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,institution,,synthetic
+Can I receive another scholarship along with the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,other_scholarship,,synthetic
+Is minimum attendance required for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,attendance,,synthetic
+Can I renew the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,renewal,,synthetic
+Is Aadhaar-linked bank account mandatory for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Are part-time or distance education students eligible for the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+Who can get fee reimbursement under the Rajarshri Chhatrapati Shahu Maharaj Fee Reimbursement Scheme?,en,SCHEME_BENEFITS,benefits,,synthetic
+Tell me about the Reimbursement of tuition fee and examination fee for girls under Rajarshri Chhatrapati Shahu Maharaj tuition fee scholarship scheme.,en,SCHEME_INFO,,,synthetic
+What is the girls' Rajarshri Chhatrapati Shahu Maharaj Tuition Fee Scholarship Scheme?,en,SCHEME_INFO,,,synthetic
+Can you explain the tuition fee scholarship for girls under Rajarshri Chhatrapati Shahu Maharaj?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the girls' Rajarshri Chhatrapati Shahu Maharaj Tuition Fee Scholarship Scheme?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can female students apply for the Rajarshri Chhatrapati Shahu Maharaj Tuition Fee Scholarship Scheme?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+Is this scholarship only for girls?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+Can EBC girls apply for this tuition fee reimbursement scheme?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Are SEBC girls eligible for this scholarship?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can Open category (EWS) girls apply for this scheme?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+What is the income limit for this tuition fee reimbursement scheme?,en,SCHEME_ELIGIBILITY,income,,synthetic
+What benefits are provided under the girls' tuition fee reimbursement scheme?,en,SCHEME_BENEFITS,benefits,,synthetic
+Does this scheme cover tuition fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Does this scheme reimburse examination fees?,en,SCHEME_BENEFITS,fee,,synthetic
+How much tuition fee is reimbursed under this scheme?,en,SCHEME_BENEFITS,benefits,,synthetic
+How much exam fee is reimbursed under this scheme?,en,SCHEME_BENEFITS,benefits,,synthetic
+Who can avail the Rajarshri Chhatrapati Shahu Maharaj girls' scholarship?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Is this scholarship available for diploma students?,en,SCHEME_ELIGIBILITY,level,,synthetic
+Can college students apply for this scholarship?,en,SCHEME_ELIGIBILITY,level,,synthetic
+Is this scheme available for post-matric students?,en,SCHEME_ELIGIBILITY,level,,synthetic
+Tell me the benefits of the Rajarshri Chhatrapati Shahu Maharaj girls' tuition fee scholarship.,en,SCHEME_BENEFITS,benefits,,synthetic
+
+Tell me about the Scholarship for students of minority communities pursuing Higher and Professional courses.,en,SCHEME_INFO,,,synthetic
+What is the Scholarship for students of minority communities pursuing Higher and Professional courses?,en,SCHEME_INFO,,,synthetic
+Can you explain the minority scholarship for higher and professional courses?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the minority scholarship for higher and professional courses?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the minority scholarship?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Which minority communities are eligible for this scholarship?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can Muslim students apply for this scholarship?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can Christian students apply for this scholarship?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can Buddhist students apply for this scholarship?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+What is the income limit for the minority scholarship?,en,SCHEME_ELIGIBILITY,income,,synthetic
+What benefits are provided under the minority scholarship?,en,SCHEME_BENEFITS,benefits,,synthetic
+How much tuition fee is reimbursed under the minority scholarship?,en,SCHEME_BENEFITS,fee,,synthetic
+Does the minority scholarship cover examination fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Can students admitted through management quota apply for the minority scholarship?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can students of private universities apply for the minority scholarship?,en,SCHEME_ELIGIBILITY,institution,,synthetic
+Is Aadhaar-linked bank account mandatory for the minority scholarship?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Can I renew the minority scholarship?,en,SCHEME_ELIGIBILITY,renewal,,synthetic
+Is minimum attendance required for the minority scholarship?,en,SCHEME_ELIGIBILITY,attendance,,synthetic
+Can I receive another scholarship along with the minority scholarship?,en,SCHEME_ELIGIBILITY,other_scholarship,,synthetic
+Is the minority scholarship reserved for girl students?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+question,language,intent,field_focus,query_focus,source
+Tell me about the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna.,en,SCHEME_INFO,,,synthetic
+What is the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (DOA)?,en,SCHEME_INFO,,,synthetic
+Can you explain the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can EBC students apply for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+What is the income limit for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Is hostel allotment mandatory for this scheme?,en,SCHEME_ELIGIBILITY,hostel,,synthetic
+Can students staying outside government hostels apply for this scheme?,en,SCHEME_ELIGIBILITY,hostel,,synthetic
+Can students admitted through management quota apply for this scheme?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Is Aadhaar-linked bank account mandatory for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Can I renew the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna?,en,SCHEME_ELIGIBILITY,renewal,,synthetic
+What benefits are provided under the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna?,en,SCHEME_BENEFITS,benefits,,synthetic
+How much maintenance allowance is provided under this scheme?,en,SCHEME_BENEFITS,maintenance_allowance,,synthetic
+What maintenance allowance is available for students in metro cities?,en,SCHEME_BENEFITS,maintenance_allowance,,synthetic
+What maintenance allowance is available for students in other cities?,en,SCHEME_BENEFITS,maintenance_allowance,,synthetic
+Is there any reservation for girls under this scheme?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+Can hostellers apply for this maintenance allowance?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+What attendance is required for this scheme?,en,SCHEME_ELIGIBILITY,attendance,,synthetic
+Can private university students apply for this scheme?,en,SCHEME_ELIGIBILITY,institution,,synthetic
+
+Tell me about the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC).,en,SCHEME_INFO,,,synthetic
+What is the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)?,en,SCHEME_INFO,,,synthetic
+Can you explain the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can EBC students apply for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can SEBC students apply for this scholarship?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can Open category (EWS) students apply for this scholarship?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+What is the income limit for the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can diploma students apply for this scholarship?,en,SCHEME_ELIGIBILITY,level,,synthetic
+Can students admitted through management quota apply for this scholarship?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can private university students apply for this scholarship?,en,SCHEME_ELIGIBILITY,institution,,synthetic
+Can I renew the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna?,en,SCHEME_ELIGIBILITY,renewal,,synthetic
+What benefits are provided under the Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna?,en,SCHEME_BENEFITS,benefits,,synthetic
+Does this scholarship reimburse tuition fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Does this scholarship reimburse examination fees?,en,SCHEME_BENEFITS,fee,,synthetic
+How much tuition fee is reimbursed under this scholarship?,en,SCHEME_BENEFITS,benefits,,synthetic
+How much examination fee is reimbursed under this scholarship?,en,SCHEME_BENEFITS,benefits,,synthetic
+Is Aadhaar-linked bank account mandatory for this scholarship?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+What attendance is required for this scholarship?,en,SCHEME_ELIGIBILITY,attendance,,synthetic
+question,language,intent,field_focus,query_focus,source
+Tell me about the Government of India Post-Matric Scholarship (CSS).,en,SCHEME_INFO,,,synthetic
+What is the Government of India Post-Matric Scholarship Scheme?,en,SCHEME_INFO,,,synthetic
+Can you explain the Government of India Post-Matric Scholarship (CSS)?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can ST students apply for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+What is the income limit for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Are correspondence or online students eligible for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+Can Divyang students get additional benefits under the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+Is Aadhaar-linked bank account mandatory for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+What attendance is required for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,attendance,,synthetic
+Can management quota students apply for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can I receive another scholarship along with the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,other_scholarship,,synthetic
+What benefits are provided under the Government of India Post-Matric Scholarship?,en,SCHEME_BENEFITS,benefits,,synthetic
+Does the Government of India Post-Matric Scholarship provide maintenance allowance?,en,SCHEME_BENEFITS,maintenance_allowance,,synthetic
+Can hostellers apply for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+What happens if I fail an examination while receiving the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,academic_progress,,synthetic
+Can part-time students apply for the Government of India Post-Matric Scholarship?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+Who can apply for the Government of India Post-Matric Scholarship after Class 10?,en,SCHEME_ELIGIBILITY,education,,synthetic
+Is the Government of India Post-Matric Scholarship available for diploma students?,en,SCHEME_ELIGIBILITY,level,,synthetic
+
+Tell me about the Tuition Fee & Exam Fee for Tribal Students (Freeship).,en,SCHEME_INFO,,,synthetic
+What is the Tuition Fee & Exam Fee for Tribal Students (Freeship) scheme?,en,SCHEME_INFO,,,synthetic
+Can you explain the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can ST students apply for the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Is there any income limit for the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can students admitted through CAP apply for the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Are management quota students eligible for the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can direct second-year students apply for the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can Open category merit students avail the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Is Aadhaar-linked bank account mandatory for the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+What benefits are provided under the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_BENEFITS,benefits,,synthetic
+Does the Tuition Fee & Exam Fee for Tribal Students (Freeship) cover full tuition fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Does the Tuition Fee & Exam Fee for Tribal Students (Freeship) cover examination fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Will I get 100% tuition fee reimbursement under this freeship?,en,SCHEME_BENEFITS,fee,,synthetic
+What happens if I fail multiple times while receiving this freeship?,en,SCHEME_ELIGIBILITY,academic_progress,,synthetic
+Can professional course students apply for this freeship?,en,SCHEME_ELIGIBILITY,level,,synthetic
+Can part-time or distance education students apply for this freeship?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+What is the maximum academic gap allowed for the Tuition Fee & Exam Fee for Tribal Students (Freeship)?,en,SCHEME_ELIGIBILITY,academic_gap,,synthetic
+question,language,intent,field_focus,query_focus,source
+Tell me about the Vocational Education Fee Reimbursement scheme.,en,SCHEME_INFO,,,synthetic
+What is the Vocational Education Fee Reimbursement scheme?,en,SCHEME_INFO,,,synthetic
+Can you explain the Vocational Education Fee Reimbursement scheme?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can ST students apply for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+What is the income limit for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can engineering students apply for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,course,,synthetic
+Can MBA and MCA students apply for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,course,,synthetic
+Can students admitted through CAP apply for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can direct second-year students apply for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can management quota students apply for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can Open category merit students avail the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Is Aadhaar-linked bank account mandatory for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Can part-time or distance education students apply for the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+What benefits are provided under the Vocational Education Fee Reimbursement scheme?,en,SCHEME_BENEFITS,benefits,,synthetic
+Does the Vocational Education Fee Reimbursement scheme cover full tuition fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Does the Vocational Education Fee Reimbursement scheme cover examination fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Will I get 100% tuition fee reimbursement under the Vocational Education Fee Reimbursement scheme?,en,SCHEME_BENEFITS,fee,,synthetic
+What happens if I fail repeatedly while receiving the Vocational Education Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,academic_progress,,synthetic
+
+Tell me about the Vocational Education Maintenance Allowance.,en,SCHEME_INFO,,,synthetic
+What is the Vocational Education Maintenance Allowance?,en,SCHEME_INFO,,,synthetic
+Can you explain the Vocational Education Maintenance Allowance?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can ST students apply for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+What is the income limit for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can engineering students apply for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,course,,synthetic
+Can MBA, MSW, B.Ed, or D.Ed students apply for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,course,,synthetic
+Can students admitted through CAP apply for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can direct second-year students apply for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can management quota students apply for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can Open category merit students avail the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Is Aadhaar-linked bank account mandatory for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Can part-time or distance education students apply for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+Can hostellers apply for the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+What benefits are provided under the Vocational Education Maintenance Allowance?,en,SCHEME_BENEFITS,benefits,,synthetic
+How much maintenance allowance is provided under the Vocational Education Maintenance Allowance?,en,SCHEME_BENEFITS,maintenance_allowance,,synthetic
+Is the maintenance allowance paid monthly or yearly?,en,SCHEME_BENEFITS,payment,,synthetic
+What happens if I fail repeatedly while receiving the Vocational Education Maintenance Allowance?,en,SCHEME_ELIGIBILITY,academic_progress,,synthetic
+question,language,intent,field_focus,query_focus,source
+Tell me about the Vocational Training Fee Reimbursement for Scheduled Tribe students.,en,SCHEME_INFO,,,synthetic
+What is the Vocational Training Fee Reimbursement for Scheduled Tribe students?,en,SCHEME_INFO,,,synthetic
+Can you explain the Vocational Training Fee Reimbursement for Scheduled Tribe students?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Vocational Training Fee Reimbursement for Scheduled Tribe students?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Vocational Training Fee Reimbursement for Scheduled Tribe students?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+Can ST students apply for the Vocational Training Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+What is the income limit for the Vocational Training Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can ITI students apply for the Vocational Training Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,course,,synthetic
+Is admission through CAP mandatory for the Vocational Training Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Can management quota students apply for the Vocational Training Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+Is 80% attendance mandatory for the Vocational Training Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,attendance,,synthetic
+Can orphan students apply for the Vocational Training Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+Is Aadhaar-linked bank account mandatory for the Vocational Training Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+Can students who already completed an ITI course apply again?,en,SCHEME_ELIGIBILITY,education,,synthetic
+What benefits are provided under the Vocational Training Fee Reimbursement scheme?,en,SCHEME_BENEFITS,benefits,,synthetic
+Does the Vocational Training Fee Reimbursement scheme cover full tuition fees?,en,SCHEME_BENEFITS,fee,,synthetic
+Does the Vocational Training Fee Reimbursement scheme provide maintenance allowance for hostellers?,en,SCHEME_BENEFITS,maintenance_allowance,,synthetic
+Can distance or part-time students apply for the Vocational Training Fee Reimbursement scheme?,en,SCHEME_ELIGIBILITY,course_mode,,synthetic
+Can I receive another government training benefit along with this scheme?,en,SCHEME_ELIGIBILITY,other_scholarship,,synthetic
+What happens if my family income is below ₹2.5 lakh under this scheme?,en,SCHEME_ELIGIBILITY,income,,synthetic
+
+Tell me about the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR).,en,SCHEME_INFO,,,synthetic
+What is the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_INFO,,,synthetic
+Can you explain the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_INFO,,,synthetic
+Who is eligible for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What are the eligibility criteria for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,eligibility,,synthetic
+What is the income limit for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,income,,synthetic
+Can EBC students apply for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,caste,,synthetic
+Can hostellers apply for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+Can students who have received hostel accommodation apply for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,hostel,,synthetic
+Can registered labourers' children apply for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+Can management quota students apply for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,admission,,synthetic
+What attendance is required for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,attendance,,synthetic
+Is Aadhaar-linked bank account mandatory for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,documents,,synthetic
+What benefits are provided under the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_BENEFITS,benefits,,synthetic
+How much maintenance allowance is provided under the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_BENEFITS,maintenance_allowance,,synthetic
+How much maintenance allowance do students in Mumbai receive under the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_BENEFITS,maintenance_allowance,,synthetic
+What is the maintenance allowance for students studying in taluka places under the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_BENEFITS,maintenance_allowance,,synthetic
+Can girls apply for the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,beneficiary,,synthetic
+Can I receive another hostel maintenance benefit along with the Dr. Panjabrao Deshmukh Vasatigruh Nirvah Bhatta Yojna (AGR)?,en,SCHEME_ELIGIBILITY,other_scholarship,,synthetic
